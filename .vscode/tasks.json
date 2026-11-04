@@ -1,0 +1,102 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Reiner: PDF",
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "Reiner: prepare export",
+        "Reiner: export (Tinymist)",
+        "Reiner: validate PDF"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Reiner: prepare export",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "editor-prepare"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Reiner: export (Tinymist)",
+      "type": "typst",
+      "command": "export",
+      "export": {
+        "format": "pdf",
+        "inputPath": "${workspaceFolder}/content/main.typ",
+        "pdf.pdfTags": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Reiner: validate PDF",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "editor-finish"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Reiner: check",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "check"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Reiner: lint",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "lint"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Reiner: corrections",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "corrections"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Reiner: format",
+      "type": "process",
+      "command": "just",
+      "args": [
+        "fmt"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

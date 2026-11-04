@@ -1,0 +1,13 @@
+{
+  "max_line_length": 80,
+  "chapter_files": "content/[0-9]{2}-[a-z0-9-]+\\.typ",
+  "cited_helpers": [
+    "bib-item"
+  ],
+  "literal_references": {
+    "content/06-22-ideal-theory.typ": {
+      "or (2) Let": "the second of two alternative arguments in a hint, not a formula number"
+    }
+  },
+  "local_markup": {}
+}

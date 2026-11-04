@@ -1,0 +1,1804 @@
+{
+  "entries": [
+    {
+      "id": "C001",
+      "printed_page": "ii",
+      "section": "List of the series",
+      "place": "Volume 2",
+      "original": "Gregory Karoilovsky",
+      "corrected": "Gregory Karpilovsky",
+      "reason": "The author of _The Schur Multiplier_ (LMS Monographs New Series 2, 1987) is Gregory Karpilovsky.",
+      "verified_by": "Library catalogue records of the cited volume (Clarendon Press, series entry and author)."
+    },
+    {
+      "id": "C002",
+      "printed_page": "ii",
+      "section": "List of the series",
+      "place": "Volume 6",
+      "original": "Maciej Kumek",
+      "corrected": "Maciej Klimek",
+      "reason": "The author of _Pluripotential Theory_ (LMS Monographs New Series 6, 1991) is Maciej Klimek.",
+      "verified_by": "Library catalogue records of the cited volume (Clarendon Press, series entry and author)."
+    },
+    {
+      "id": "C003",
+      "printed_page": "viii and References",
+      "section": "Preface",
+      "place": "Preface",
+      "original": "\"the fine books by Bass [1], DeMeyer-Ingraham [1], Kaplansky [1], and Matsumura [1]\", with no DeMeyer–Ingraham entry in the References",
+      "corrected": "The References gain the entry DeMeyer–Ingraham [1], Separable Algebras over Commutative Rings, Lecture Notes in Mathematics 181, Springer, Berlin, 1971.",
+      "reason": "The citation has no target in the printed list. Treated like the Milnor, van der Waerden and Feit citations.",
+      "verified_by": "The References of the book: CURTIS–REINER is followed by DEURING."
+    },
+    {
+      "id": "C004",
+      "printed_page": "3",
+      "section": "§1",
+      "place": "(1.8)",
+      "original": "$\"char. pol.\"_K alpha = det(delta_(i j) X - a_(i j))$",
+      "corrected": "$\"char. pol.\"_(A slash K) alpha = det(delta_(i j) X - a_(i j))$",
+      "reason": "The polynomial of an element $alpha$ of $A$ is $\"char. pol.\"_(A slash K) alpha$, defined in (1.6); the subscript $K$ alone denotes the polynomial of a linear transformation.",
+      "verified_by": "Definition (1.6) and the matrix of left multiplication by $alpha$ in the basis $u_1, dots, u_m$."
+    },
+    {
+      "id": "C005",
+      "printed_page": "7",
+      "section": "§1",
+      "place": "Exercise 1.2, display",
+      "original": "$\"char. pol.\"_(L times.o_K A, L) 1 times.o a = \"char. pol.\"_(A slash K) a.$",
+      "corrected": "$\"char. pol.\"_(L times.o_K A slash L) 1 times.o a = \"char. pol.\"_(A slash K) a.$",
+      "reason": "The subscript of the characteristic polynomial of an element of an algebra names the algebra over its ground field, $\"char. pol.\"_(A slash K)$ as in (1.6) and on the right-hand side of this display; the comma in $L times.o_K A, L$ is a misprint for the slash.",
+      "verified_by": "Notation (1.6); right-hand side of the same display."
+    },
+    {
+      "id": "C006",
+      "printed_page": "7",
+      "section": "§1",
+      "place": "Exercise 1.3",
+      "original": "for each matrix $(alpha_(i j)) in M_r$",
+      "corrected": "for each matrix $(alpha_(i j)) in M_r (E)$",
+      "reason": "The ring of the matrix entries is missing; the entries $alpha_(i j)$ lie in $E$, since $tilde(alpha)_(i j)$ is defined for $alpha in E$.",
+      "verified_by": "The same exercise: $tilde(alpha)$ is defined for $alpha in E$ and $N_(E slash K)$ is applied to $det(alpha_(i j))$."
+    },
+    {
+      "id": "C007",
+      "printed_page": "9",
+      "section": "§2",
+      "place": "Bimodule condition",
+      "original": "$(lambda m) delta$",
+      "corrected": "$(lambda m) delta = lambda (m delta)$",
+      "reason": "The displayed condition that the actions of $Lambda$ and $Delta$ commute lacks its right-hand side.",
+      "verified_by": "Definition of a bimodule."
+    },
+    {
+      "id": "C008",
+      "printed_page": "13",
+      "section": "§2",
+      "place": "Noetherian modules",
+      "original": "submodules terminates The ring",
+      "corrected": "submodules terminates. The ring",
+      "reason": "The full stop is missing.",
+      "verified_by": "The sentence structure."
+    },
+    {
+      "id": "C009",
+      "printed_page": "16",
+      "section": "§2",
+      "place": "Proof of (2.16), diagram",
+      "original": "$F times.o_Lambda M tilde.equiv X times.o_Lambda M dotplus X' times.o_Lambda L$",
+      "corrected": "$F times.o_Lambda M tilde.equiv X times.o_Lambda M dotplus X' times.o_Lambda M$",
+      "reason": "The bottom row is the image of the top row under $1 times.o f$ with $f: L -> M$; its last term is $X' times.o_Lambda M$.",
+      "verified_by": "The vertical map $1_(X') times.o f$ and the decomposition $F = X plus.o X'$."
+    },
+    {
+      "id": "C010",
+      "printed_page": "18",
+      "section": "§2",
+      "place": "Proof of (2.22)",
+      "original": "(See §4e for the relevant definitions.)",
+      "corrected": "(See §5a for the relevant definitions.)",
+      "reason": "The proof uses the $P$-adic completion $R^*$ of $R$, which is defined in §5a (Completions); §4e (Global fields) defines the primes and normalized valuations of a global field and does not treat completions.",
+      "verified_by": "The texts of §4e (pp. 63-65) and §5a (pp. 67-70)."
+    },
+    {
+      "id": "C011",
+      "printed_page": "20",
+      "section": "§2",
+      "place": "Free resolutions",
+      "original": "Given a left $Lambda$-module $N$, chose an epimorphism",
+      "corrected": "Given a left $Lambda$-module $N$, choose an epimorphism",
+      "reason": "Misprint.",
+      "verified_by": "The parallel \"Then choose\" in the next sentence."
+    },
+    {
+      "id": "C012",
+      "printed_page": "21",
+      "section": "§2",
+      "place": "(2.28)(iv)",
+      "original": "$f_n^*: \"Ext\"^n (N', L) -> \"Ext\"^n (N, L). quad n >= 1.$",
+      "corrected": "$f_n^*: \"Ext\"^n (N', L) -> \"Ext\"^n (N, L), quad n >= 1.$",
+      "reason": "The range $n >= 1$ belongs to the display; a comma, as in the next display.",
+      "verified_by": "The parallel display for $(g_*)_n$."
+    },
+    {
+      "id": "C013",
+      "printed_page": "31",
+      "section": "§3",
+      "place": "Proof of (3.1)",
+      "original": "$psi(a slash s) = phi(a) slash phi(s), quad a in A, quad s in S.$",
+      "corrected": "$psi(a slash s) = phi(a) slash phi(s), quad a in R, quad s in S.$",
+      "reason": "The numerators of $S^(-1) R$ lie in $R$.",
+      "verified_by": "The definition of $S^(-1) R$."
+    },
+    {
+      "id": "C014",
+      "printed_page": "35",
+      "section": "§3",
+      "place": "Footnote on $S$-saturated",
+      "original": "See Bourbaki, Algèbre Commutive, page 69",
+      "corrected": "See Bourbaki, Algèbre Commutative, page 69",
+      "reason": "Misprint in the title of the cited volume.",
+      "verified_by": "Bourbaki, Algèbre Commutative, Ch. 1-2 (Hermann, 1961); item 2 of the References."
+    },
+    {
+      "id": "C015",
+      "printed_page": "38",
+      "section": "§3",
+      "place": "Before (3.18)",
+      "original": "the \"Change of rings\" Theorem 2.43",
+      "corrected": "the \"Change of rings\" Theorem 2.39",
+      "reason": "The Change of rings Theorem is (2.39); (2.43) is its corollary for rings of quotients, of which (3.19) is a special case.",
+      "verified_by": "The statements of (2.39) and (2.43) on pp. 26-27."
+    },
+    {
+      "id": "C016",
+      "printed_page": "39",
+      "section": "§3",
+      "place": "Proof of (3.20)",
+      "original": "The theorem then follow immediately from (3.16).",
+      "corrected": "The theorem then follows immediately from (3.16).",
+      "reason": "Misprint.",
+      "verified_by": "Grammar."
+    },
+    {
+      "id": "C017",
+      "printed_page": "40",
+      "section": "§3",
+      "place": "Proof of (3.23)",
+      "original": "Hence the original sequence splits, by (3.22), and so $N$ is projective.",
+      "corrected": "Hence the original sequence splits, by (3.20), and so $N$ is projective.",
+      "reason": "The splitting criterion is Theorem (3.20); (3.22) is the localized sequence.",
+      "verified_by": "Statement of (3.20)."
+    },
+    {
+      "id": "C018",
+      "printed_page": "40",
+      "section": "§3",
+      "place": "Proof of (3.24)",
+      "original": "This complete the proof of the corollary.",
+      "corrected": "This completes the proof of the corollary.",
+      "reason": "Misprint.",
+      "verified_by": "Grammar."
+    },
+    {
+      "id": "C019",
+      "printed_page": "40",
+      "section": "§3",
+      "place": "Definition of homological dimension",
+      "original": "the least positive integer $n$ for which there exists",
+      "corrected": "the least nonnegative integer $n$ for which there exists",
+      "reason": "A projective module has homological dimension 0, as the book notes on p. 41.",
+      "verified_by": "Sequence (3.25) with $n = 0$ and the remark after (3.27); checks/sage/s01_05_commutative_algebra.py, check of the definition of homological dimension (Z/n is not projective, Z is)."
+    },
+    {
+      "id": "C020",
+      "printed_page": "50",
+      "section": "§4",
+      "place": "Proof of (4.18)",
+      "original": "$X tilde.equiv M slash N tilde.equiv dsum_(i=r+1)^s J_i dotplus dsum_(i=1)^r (R slash E_i)$",
+      "corrected": "$X tilde.equiv M slash N tilde.equiv dsum_(i=s+1)^r J_i dotplus dsum_(i=1)^s (R slash E_i)$",
+      "reason": "In the notation of (4.14), $r = op(\"rank\")_R M$ and $s = op(\"rank\")_R N <= r$; the torsion part comes from the $s$ invariant factors and the remaining $r - s$ summands are ideals. The printed limits are interchanged.",
+      "verified_by": "Direct computation from the bases of $M$ and $N$ in (4.14); checks/sage/s01_05_commutative_algebra.py, check of (4.18) (Smith normal form of 120 integer matrices: free rank r - s and s invariant factors; the printed limits are refuted for s < r)."
+    },
+    {
+      "id": "C021",
+      "printed_page": "50",
+      "section": "§4",
+      "place": "Proof of (4.18)",
+      "original": "does not occur if $X$ is an $R$-torsion module",
+      "corrected": "does not occur if $X$ is an $R$-torsion module.",
+      "reason": "The full stop is missing.",
+      "verified_by": "The sentence structure."
+    },
+    {
+      "id": "C022",
+      "printed_page": "51",
+      "section": "§4",
+      "place": "(4.19)",
+      "original": "every non-archimedean valuation satisfies.",
+      "corrected": "every non-archimedean valuation satisfies",
+      "reason": "A stray full stop before the displayed condition (v).",
+      "verified_by": "The sentence structure."
+    },
+    {
+      "id": "C023",
+      "printed_page": "52",
+      "section": "§4",
+      "place": "Archimedean valuations",
+      "original": "the complex field $bold(C)$ is an archimedian valuation",
+      "corrected": "the complex field $bold(C)$ is an archimedean valuation",
+      "reason": "Misprint; the book spells the word archimedean elsewhere.",
+      "verified_by": "The same sentence."
+    },
+    {
+      "id": "C024",
+      "printed_page": "52",
+      "section": "§4",
+      "place": "Embeddings $mu_i$",
+      "original": "$g(X) in Q[X]$",
+      "corrected": "$g(X) in bold(Q)[X]$",
+      "reason": "The rational field is printed in boldface throughout the book.",
+      "verified_by": "Permanent notation."
+    },
+    {
+      "id": "C025",
+      "printed_page": "53",
+      "section": "§4",
+      "place": "(4.20)(i)",
+      "original": "$J_P = (P dot R_P)^(v_P (J))$",
+      "corrected": "$J_P = (P dot R_P)^(v_P (J)).$",
+      "reason": "The full stop is missing at the end of the displayed formula that ends statement (i).",
+      "verified_by": "(ii) and (iii) end with full stops."
+    },
+    {
+      "id": "C026",
+      "printed_page": "54",
+      "section": "§4",
+      "place": "Proof of (4.20)(iii)",
+      "original": "Let $S = R - P$, a multiplicative subject of $R$.",
+      "corrected": "Let $S = R - P$, a multiplicative subset of $R$.",
+      "reason": "Misprint.",
+      "verified_by": "Definition of a multiplicative subset in §3a."
+    },
+    {
+      "id": "C027",
+      "printed_page": "60",
+      "section": "§4",
+      "place": "Complementary lattice",
+      "original": "a full $R$-lattice in $L$, as claimed",
+      "corrected": "a full $R$-lattice in $L$, as claimed.",
+      "reason": "The full stop is missing.",
+      "verified_by": "The sentence structure."
+    },
+    {
+      "id": "C028",
+      "printed_page": "68",
+      "section": "§5",
+      "place": "$P$-adic expansions",
+      "original": "(If $y = 0$, take $k = -infinity$).",
+      "corrected": "(If $y = 0$, take $k = +infinity$).",
+      "reason": "Since $hat(phi)_P (pi) < 1$, the powers $pi^k$ tend to 0 as $k -> +infinity$; this agrees with $v_P (0) = +infinity$ in §4b.",
+      "verified_by": "The convention $v_P (0) = +infinity$ on p. 52."
+    },
+    {
+      "id": "C029",
+      "printed_page": "69",
+      "section": "§5",
+      "place": "(5.2)(ii)",
+      "original": "the set of full $hat(R)$-lattice $T$ in $hat(V)$",
+      "corrected": "the set of full $hat(R)$-lattices $T$ in $hat(V)$",
+      "reason": "Agreement: the parallel phrase reads \"the set of full $R$-lattices $M$ in $V$\".",
+      "verified_by": "The same sentence of (5.2)(ii)."
+    },
+    {
+      "id": "C030",
+      "printed_page": "71",
+      "section": "§5",
+      "place": "Definition of $v_K$",
+      "original": "$a R = p_K^(v_K (a))$",
+      "corrected": "$a o_K = p_K^(v_K (a))$",
+      "reason": "No ring $R$ is defined in §5b; the valuation ring of $K$ is $o_K$.",
+      "verified_by": "The notation introduced in the same paragraph."
+    },
+    {
+      "id": "C031",
+      "printed_page": "72",
+      "section": "§5",
+      "place": "(5.8)(i)",
+      "original": "between the set fields $L$ such that",
+      "corrected": "between the set of fields $L$ such that",
+      "reason": "A word is missing.",
+      "verified_by": "The parallel phrase \"the set of fields $k$\" in the same sentence."
+    },
+    {
+      "id": "C032",
+      "printed_page": "72",
+      "section": "§5",
+      "place": "(5.8)(iv)",
+      "original": "in the yalois group",
+      "corrected": "in the galois group",
+      "reason": "Misprint.",
+      "verified_by": "The same sentence."
+    },
+    {
+      "id": "C033",
+      "printed_page": "72",
+      "section": "§5",
+      "place": "After (5.9)",
+      "original": "$overline(o)_W$ is the separable closure of $overline(o)_K$ in $overline(o)_L$, that is, $overline(o)_W = {x in overline(o)_L : dots}$",
+      "corrected": "$overline(o)_W$ is the separable closure of $overline(o)_K$ in $overline(o)_E$, that is, $overline(o)_W = {x in overline(o)_E : dots}$",
+      "reason": "The extension in (5.9) is $E slash K$; no field $L$ occurs there.",
+      "verified_by": "The statement of (5.9)."
+    },
+    {
+      "id": "C034",
+      "printed_page": "74",
+      "section": "§5",
+      "place": "After (5.12)",
+      "original": "then $W$ is a cyclotomic extension of $E$.",
+      "corrected": "then $W$ is a cyclotomic extension of $K$.",
+      "reason": "$W$ is a subfield of $E$; by (5.10) it is obtained from $K$ by adjoining a root of unity.",
+      "verified_by": "Theorem (5.10)."
+    },
+    {
+      "id": "C035",
+      "printed_page": "77",
+      "section": "§5",
+      "place": "Exercise 5.6",
+      "original": "if $T$ is an $hat(R)$-lattice of $V$",
+      "corrected": "if $T$ is an $hat(R)$-lattice of $hat(V)$",
+      "reason": "An $hat(R)$-lattice lies in the $hat(K)$-space $hat(V)$, as in (5.2).",
+      "verified_by": "The notation of (5.2)."
+    },
+    {
+      "id": "C036",
+      "printed_page": "82",
+      "section": "§6",
+      "place": "Proof of (6.14)",
+      "original": "Thus $A - op(\"rad\") A subset u(A)$, so $op(\"rad\") A subset S$, as desired.",
+      "corrected": "Thus $A - op(\"rad\") A subset u(A)$, so $S subset op(\"rad\") A$, as desired.",
+      "reason": "The inclusion to be proved is $S subset op(\"rad\") A$; every non-unit lies in $op(\"rad\") A$.",
+      "verified_by": "The preceding sentence of the proof, \"we need only prove the reverse inclusion\"."
+    },
+    {
+      "id": "C037",
+      "printed_page": "83",
+      "section": "§6",
+      "place": "Proof of (6.15)",
+      "original": "$(op(\"rad\") overline(A))^t = 0$ for some $n$. Thus $phi{op(\"rad\") A)^t} = 0$",
+      "corrected": "$(op(\"rad\") overline(A))^t = 0$ for some $t$. Thus $phi{(op(\"rad\") A)^t} = 0$",
+      "reason": "The exponent is $t$; a parenthesis is missing.",
+      "verified_by": "The statement of (6.15)."
+    },
+    {
+      "id": "C038",
+      "printed_page": "84",
+      "section": "§6",
+      "place": "Before (6.16)",
+      "original": "Bourbaki [2, Ch. 3]",
+      "corrected": "Bourbaki [3, Ch. 3]",
+      "reason": "Completions are treated in Chapter 3 of Bourbaki's Algèbre Commutative, item 3 of the References (Ch. 3, 4); item 2 contains Chapters 1 and 2 only.",
+      "verified_by": "The References, Bourbaki items 2 and 3."
+    },
+    {
+      "id": "C039",
+      "printed_page": "86",
+      "section": "§6",
+      "place": "Proof of (6.19)",
+      "original": "$1 = e_1 + dots.c + e_(n-2) + e, quad overline(e)_1 = epsilon_1, dots, overline(e)_(n-2) = epsilon_(n-2), quad overline(e) = delta,$ Choose $a in A$",
+      "corrected": "$1 = e_1 + dots.c + e_(n-2) + e, quad overline(e)_1 = epsilon_1, dots, overline(e)_(n-2) = epsilon_(n-2), quad overline(e) = delta.$ Choose $a in A$",
+      "reason": "The display ends the sentence; the next one begins with a capital.",
+      "verified_by": "The following sentence \"Choose $a in A$ ...\"."
+    },
+    {
+      "id": "C040",
+      "printed_page": "89",
+      "section": "§6",
+      "place": "Hint to Exercise 6.6",
+      "original": "$p = nu_1 mu_1 + mu_2 + dots.c mu_t$",
+      "corrected": "$p = nu_1 mu_1 + mu_2 + dots.c + mu_t$",
+      "reason": "A plus sign is missing.",
+      "verified_by": "The definition of $p$ as a sum of maps."
+    },
+    {
+      "id": "C041",
+      "printed_page": "96",
+      "section": "§7",
+      "place": "Proof of (7.13)",
+      "original": "$D_0 = op(\"Hom\")_(B') (overline(W), W)$",
+      "corrected": "$D_0 = op(\"Hom\")_(B') (W, W)$",
+      "reason": "The skewfield of $B'$ is the endomorphism ring of the simple module $W$; no module $overline(W)$ is defined.",
+      "verified_by": "The definition of $W$ in the same proof."
+    },
+    {
+      "id": "C042",
+      "printed_page": "98",
+      "section": "§7",
+      "place": "Proof of (7.15)(ii)",
+      "original": "$mu(1 times.o x^(p^e)) = a dot I_n$",
+      "corrected": "$mu(1 times.o x^(p^e)) = a dot I_r$",
+      "reason": "$mu$ takes values in $M_r (F)$; here $n = (D : K) = r^2$.",
+      "verified_by": "Part (i) of (7.15)."
+    },
+    {
+      "id": "C043",
+      "printed_page": "98",
+      "section": "§7",
+      "place": "Proof of (7.15)(ii)",
+      "original": "$D' = {a in D : a x = x a \"for all\" a in E}$",
+      "corrected": "$D' = {x in D : a x = x a \"for all\" a in E}$",
+      "reason": "The bound variable of the set is $x$, not $a$.",
+      "verified_by": "The definition of a centralizer in (7.11)."
+    },
+    {
+      "id": "C044",
+      "printed_page": "99",
+      "section": "§7",
+      "place": "Proof of (7.17)",
+      "original": "Hence $L times.o N supset op(\"rad\") (L times.o A)$, by Exercise 6.4.",
+      "corrected": "Hence $L times.o N supset op(\"rad\") (L times.o A)$, by Exercise 6.1.",
+      "reason": "The statement used, that $J supset op(\"rad\") A$ whenever $A slash J$ is semisimple, is Exercise 6.1; Exercise 6.4 concerns local rings.",
+      "verified_by": "Exercises 6.1 and 6.4 on p. 88."
+    },
+    {
+      "id": "C045",
+      "printed_page": "101",
+      "section": "§7",
+      "place": "Proof of (7.18), case (b)",
+      "original": "$A$ is semisimple, but some $K_i$ is inseparable over $K$, (using the notation of the first part of the proof).",
+      "corrected": "$A$ is semisimple, but some $K_i$ is inseparable over $K$ (using the notation of the first part of the proof).",
+      "reason": "Punctuation: a superfluous comma before the parenthetical remark.",
+      "verified_by": "The parenthesis qualifies the same clause."
+    },
+    {
+      "id": "C046",
+      "printed_page": "103",
+      "section": "§7",
+      "place": "Proof of (7.21)",
+      "original": "In the same way, we may view $V$ as left $D times.o tilde(B)$ module.",
+      "corrected": "In the same way, we may view $V$ as left $D times.o tilde(B)$-module.",
+      "reason": "Missing hyphen; the next sentence and the rest of the proof print \"$D times.o tilde(B)$-module\".",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C047",
+      "printed_page": "105 and References",
+      "section": "§7",
+      "place": "Hint to Exercise 7.4",
+      "original": "\"The following quick proof is due to Milnor [1].\", with no Milnor entry in the References",
+      "corrected": "The References gain the entry Milnor [1], Introduction to Algebraic K-theory, Annals of Mathematics Studies 72, Princeton University Press, 1971.",
+      "reason": "The citation has no target in the printed list. Treated like the van der Waerden and Feit citations.",
+      "verified_by": "The References of the book: MATSUMURA and MICHLER are followed by NEUKIRCH."
+    },
+    {
+      "id": "C048",
+      "printed_page": "106",
+      "section": "§7",
+      "place": "Hint to Exercise 7.12",
+      "original": "Then $A = e A plus.o a x A$, so $a x A$ is a maximal left ideal.",
+      "corrected": "Then $A = e A plus.o a x A$, so $a x A$ is a maximal right ideal.",
+      "reason": "$a x A$ is a right ideal, a complement of the minimal right ideal $e A$; the next sentence uses it as a maximal right ideal.",
+      "verified_by": "Since $a x = 1 - e$ is idempotent, $a x A = (1 - e) A$ is a maximal right ideal of the simple artinian ring $A$. checks/sage/s06_07_radicals_semisimple.py, check of the hint to Exercise 7.12 (all maximal left ideals of M_2(F_2), M_2(F_3): a x A is a maximal right ideal and never a left ideal)."
+    },
+    {
+      "id": "C049",
+      "printed_page": "110",
+      "section": "§8",
+      "place": "Proof of (8.7)",
+      "original": "$E_lambda = op(\"diag\")(lambda, 0, dots, 0) in M_n (Lambda)$",
+      "corrected": "$E_lambda = op(\"diag\")(lambda, 0, dots, 0) in M_n (Lambda')$",
+      "reason": "Here $lambda in Lambda'$, which need not lie in $Lambda$.",
+      "verified_by": "The definition of $Lambda'$ in the same proof."
+    },
+    {
+      "id": "C050",
+      "printed_page": "112",
+      "section": "§8",
+      "place": "Proof of (8.8)",
+      "original": "In order to apply the \"Change of Rings\" Theorem (2.37), ... By (2.37) we obtain",
+      "corrected": "In order to apply the \"Change of Rings\" Theorem (2.39), ... By (2.39) we obtain",
+      "reason": "The Change of Rings Theorem is (2.39) (for $n = 0$ it is the isomorphism (2.38)); (2.37) asserts only a monomorphism, while an isomorphism is used here. The same proof on p. 109 cites (2.39).",
+      "verified_by": "Statements of (2.37)–(2.39)."
+    },
+    {
+      "id": "C051",
+      "printed_page": "112",
+      "section": "§8",
+      "place": "Proof of (8.8)(iii)",
+      "original": "$M' = sum_(i=1)^s Lambda' m_i, quad m_i in M.$",
+      "corrected": "$M' = sum_(i=1)^s Lambda' m_i, quad m_i in M'.$",
+      "reason": "The generators are chosen in $M'$; $M$ is defined from them afterwards.",
+      "verified_by": "The next sentence of the proof."
+    },
+    {
+      "id": "C052",
+      "printed_page": "112",
+      "section": "§9",
+      "place": "§9a, first paragraph",
+      "original": "how to assign to each $a in K$ a characteristic polynomial",
+      "corrected": "how to assign to each $a in A$ a characteristic polynomial",
+      "reason": "The characteristic polynomial of §1a is assigned to elements of the algebra $A$.",
+      "verified_by": "The definition that follows ($a_L$ is left multiplication by $a$ on $A$)."
+    },
+    {
+      "id": "C053",
+      "printed_page": "113",
+      "section": "§9",
+      "place": "After (9.2)",
+      "original": "This show that",
+      "corrected": "This shows that",
+      "reason": "Grammar.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C054",
+      "printed_page": "113",
+      "section": "§9",
+      "place": "Proof of (9.3)",
+      "original": "there exists $K$-embeddings",
+      "corrected": "there exist $K$-embeddings",
+      "reason": "Grammar.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C055",
+      "printed_page": "115",
+      "section": "§9",
+      "place": "Example (9.4)",
+      "original": "Hence (see (9.6a) below",
+      "corrected": "Hence (see (9.6a) below)",
+      "reason": "Missing closing parenthesis.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C056",
+      "printed_page": "116",
+      "section": "§9",
+      "place": "After (9.7)",
+      "original": "the map $a -> (1 times.o a)_L$, $a in K$,",
+      "corrected": "the map $a -> (1 times.o a)_L$, $a in A$,",
+      "reason": "The map is defined on $A$ and is an isomorphism of $A$ into $Hom_E (V, V)$.",
+      "verified_by": "The same sentence."
+    },
+    {
+      "id": "C057",
+      "printed_page": "118",
+      "section": "§9",
+      "place": "Proof of (9.10)(iii)",
+      "original": "an indecomposable $K[phi]$-module",
+      "corrected": "an indecomposable $L[phi]$-module",
+      "reason": "$V$ is decomposed into $L$-subspaces stable under $phi$, and the next sentence writes $V = L[X] slash (f(X))$ with $f(X) in L[X]$.",
+      "verified_by": "The next two sentences of the proof."
+    },
+    {
+      "id": "C058",
+      "printed_page": "119",
+      "section": "§9",
+      "place": "Proof of (9.10)(iii)",
+      "original": "$= det tilde(f)(X) = N_(L slash K) f(x)$",
+      "corrected": "$= det tilde(f)(X) = N_(L slash K) f(X)$",
+      "reason": "The variable is $X$.",
+      "verified_by": "The definition of $N_(L slash K)$ on p. 117."
+    },
+    {
+      "id": "C059",
+      "printed_page": "121",
+      "section": "§9",
+      "place": "Remark after (9.19)",
+      "original": "the existence of a symmetric associative bilinear form on $B$ to $K$ tells us that $B$ is a Frobenius algebra",
+      "corrected": "the existence of a symmetric associative nondegenerate bilinear form on $B$ to $K$ tells us that $B$ is a Frobenius algebra",
+      "reason": "The zero form is symmetric and associative; a Frobenius algebra is characterized by a nondegenerate associative bilinear form, which is what (9.19) provides.",
+      "verified_by": "Curtis, Reiner, Representation Theory of Finite Groups and Associative Algebras, (61.3); checks/sage/s08_11_orders.py, check of the remark after (9.19) (k[x, y]/(x, y)^2 carries the zero symmetric associative form, and every associative form on it is degenerate)."
+    },
+    {
+      "id": "C060",
+      "printed_page": "125",
+      "section": "§9",
+      "place": "Hint to Exercise 9.5",
+      "original": "$= sum_(i=1)^r tr_(D slash K) (alpha_(i i)) dot$\\]",
+      "corrected": "$= sum_(i=1)^r tr_(D slash K) (alpha_(i i)).$\\]",
+      "reason": "A raised dot printed for the full stop.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C061",
+      "printed_page": "128",
+      "section": "§10",
+      "place": "Faddeev's example",
+      "original": "it follows that $L_n subset r^k Lambda$. Therefore $L_n subset r^k Lambda inter (rad A)^n = r^k L_n$, ... This gives $L_n = r^k L_n$",
+      "corrected": "it follows that $L_n subset r^n Lambda$. Therefore $L_n subset r^n Lambda inter (rad A)^n = r^n L_n$, ... This gives $L_n = r^n L_n$",
+      "reason": "From $r^(-n(k+1)) L_n subset Lambda_k$ one gets $L_n subset r^(n(k+1)) Lambda_k$, a sum of terms $r^(n k + n - i k) L_i$ with exponents at least $n$; so $L_n subset r^n Lambda$. The inclusion $L_n subset r^k Lambda$ fails for $k > n$ and gives no contradiction for $k = 0$, while $L_n = r^n L_n$ with $n >= 1$ contradicts $L_n != 0$.",
+      "verified_by": "Direct computation from the definition of $Lambda_k$; purity of $L_n$ as in (4.0); checks/sage/s08_11_orders.py, check of Faddeev's example (T_2(Q), T_3(Q), r = 2, k <= 5: r^(n(k+1)) Lambda_k lies in r^n Lambda, not in r^k Lambda for k > n)."
+    },
+    {
+      "id": "C062",
+      "printed_page": "130",
+      "section": "§10",
+      "place": "Proof of (10.8)",
+      "original": "is an $R$-order in the algebra $A' = A plus.o dots.c plus.o A_t$",
+      "corrected": "is an $R$-order in the algebra $A' = dsum_(j != i) A_j$",
+      "reason": "$Lambda' = Lambda inter A(1 - e_i)$ lies in $A(1 - e_i)$, the sum of the simple components other than $A_i$.",
+      "verified_by": "The definition of $Lambda'$ in the same sentence."
+    },
+    {
+      "id": "C063",
+      "printed_page": "130",
+      "section": "§10",
+      "place": "Proof of (10.8), where $Lambda'$ becomes an order",
+      "original": "and $Lambda' = Lambda inter A(1 - e_i)$ is an $R$-order in the algebra $A' = dsum_(j != i) A_j$. It is easily seen that $Lambda'$ is also left hereditary. Now $Lambda e_i$ is a left $Lambda$-lattice, … Multiplying by $e_i$, we find that $J = Lambda e_i$. An induction argument",
+      "corrected": "where $Lambda' = Lambda inter A(1 - e_i)$. Now $Lambda e_i$ is a left $Lambda$-lattice, … Multiplying by $e_i$, we find that $J = Lambda e_i$, so $e_i in Lambda$, and $Lambda' = Lambda(1 - e_i)$ is an $R$-order in the algebra $A' = dsum_(j != i) A_j$. It is easily seen that $Lambda'$ is also left hereditary. An induction argument",
+      "reason": "Before the splitting it is not known that $1 - e_i in Lambda$, and $Lambda inter A(1 - e_i)$ need not contain the identity of $A'$: for $Lambda = {(a, b) in bold(Z) plus.o bold(Z) : a equiv b mod 2}$ it is $2 bold(Z) e_2$. The splitting gives $e_i in Lambda$ (write $1 = lambda' + j$ and multiply by $e_i$), after which $Lambda'$ is an order; the assertion is moved there.",
+      "verified_by": "checks/lean/ReinerMaximalOrders/HereditaryComponents.lean, split_component and kernel_eq_mul; checks/sage/s08_11_orders.py, check of the example."
+    },
+    {
+      "id": "C064",
+      "printed_page": "132",
+      "section": "§11",
+      "place": "Before (11.3)",
+      "original": "$Lambda_(P') tilde.equiv (R_P)_(P') dot R_P times.o_(R_P) Lambda_P$",
+      "corrected": "$Lambda_(P') tilde.equiv (R_P)_(P' dot R_P) times.o_(R_P) Lambda_P$",
+      "reason": "The localization is taken at the prime ideal $P' dot R_P$ of $R_P$, as the next sentence says; the factor $dot R_P$ belongs to the subscript.",
+      "verified_by": "The next sentence of the text."
+    },
+    {
+      "id": "C065",
+      "printed_page": "133",
+      "section": "§11",
+      "place": "After (11.3)",
+      "original": "where $P$ ranges over the minimal left ideals of $R$.",
+      "corrected": "where $P$ ranges over the minimal primes of $R$.",
+      "reason": "(4.25)(iv) and (11.4) concern the minimal primes of the commutative domain $R$.",
+      "verified_by": "Statement of (4.25)."
+    },
+    {
+      "id": "C066",
+      "printed_page": "133-134",
+      "section": "§11",
+      "place": "Paragraph before (11.5), statement and proof of (11.5)",
+      "original": "For such a domain, we now show that we may pass to the completion ... (11.5) Theorem. Let $R$ be an integrally closed local noetherian domain, $hat(R)$ its completion ... by (5.4) ... by (5.4)",
+      "corrected": "When $R_P$ is a discrete valuation ring, we now show that we may pass to the completion ... (11.5) Theorem. Let $R$ be a discrete valuation ring, $hat(R)$ its completion ... by (5.2) ... by (5.2)",
+      "reason": "The proof cites (5.4), which concerns the completions $hat(R)_P$ at the minimal primes of $R$, not the completion at the maximal ideal; the two agree only when $R$ is a discrete valuation ring, where (5.2) gives $Gamma = A inter Delta$, $hat(Gamma) = Delta$. In dimension 2 the theorem is false: for $R = bold(Q)[x, y]$ localized at $(x, y)$ and $A = (x, 1 + y)$ over $bold(Q)(x, y)$, the order $R + R i + R j + R i j$ is maximal by (11.4), while $1 + y$ is a square in $hat(R) = bold(Q)[[x, y]]$, $hat(A) tilde.equiv M_2 (hat(K))$, and $hat(Lambda)$ lies properly in the $hat(R)$-order spanned by matrix units. The book uses (11.5) only for discrete valuation rings ((11.6), §18, §34).",
+      "verified_by": "checks/sage/s08_11_orders.py, checks of (11.5) (matrix units, discriminants -16 x^2 (1 + y)^2 and -1, E_12 outside the R^-span of 1, i, j, ij, square root of 1 + y in Q[[y]]); (11.4), (30.4)(iii) and (5.6)(iii) for the maximality of R<i, j>."
+    },
+    {
+      "id": "C067",
+      "printed_page": "136",
+      "section": "§12",
+      "place": "Before (12.3)",
+      "original": "$charpol_(D slash K) a = X^m - dots.c + (-1)^m N_(D slash K) a, quad a in A,$",
+      "corrected": "$charpol_(D slash K) a = X^m - dots.c + (-1)^m N_(D slash K) a, quad a in D,$",
+      "reason": "The norm and trace are defined on the skewfield $D$; no algebra $A$ occurs in this chapter.",
+      "verified_by": "Formula (12.3) on the next line."
+    },
+    {
+      "id": "C068",
+      "printed_page": "138",
+      "section": "§12",
+      "place": "Proof of (12.9)",
+      "original": "$v(alpha_k) = v'(alpha_k) >= k / n dot v(a_n)$",
+      "corrected": "$v(alpha_k) = v'(alpha_k) >= k / n dot v(alpha_n)$",
+      "reason": "The coefficient is $alpha_n$, as in the statement of (12.9).",
+      "verified_by": "Statement of (12.9)."
+    },
+    {
+      "id": "C069",
+      "printed_page": "138",
+      "section": "§12",
+      "place": "Proof of (12.9)",
+      "original": "so by (12.1) ii) and iii) we obtain",
+      "corrected": "so by (12.1) (ii) and (iii) we obtain",
+      "reason": "The opening parentheses of the item labels are missing; the conditions of (12.1) are labelled (i)–(iv).",
+      "verified_by": "Display (12.1)."
+    },
+    {
+      "id": "C070",
+      "printed_page": "140",
+      "section": "§13",
+      "place": "Proof of (13.3)",
+      "original": "let ${b_j : 1 <= j <= t}$ be elements of $K$ such that the integers ${v_D (b_j)}$ are incongruent $mod e$",
+      "corrected": "let ${b_j : 1 <= j <= t}$ be elements of $D$ such that the integers ${v_D (b_j)}$ are incongruent $mod e$",
+      "reason": "Every nonzero element of $K$ has $v_D$-value divisible by $e$, so elements of $K$ cannot have incongruent values; the $b_j$ are taken in $D$ (in $Delta$ later in the proof).",
+      "verified_by": "Statement of (13.3) and $v_D (pi) = e$; checks/sage/s12_14_local_skewfields.py, check of the correction to (13.3) (v_D(a) = 2 v_p(a) for a in Q in the quaternion algebras ramified at p)."
+    },
+    {
+      "id": "C071",
+      "printed_page": "141",
+      "section": "§13",
+      "place": "Proof of (13.3)",
+      "original": "$x = (pi^k b_j) u, quad u in u(Delta).$",
+      "corrected": "$x = u (pi^k b_j), quad u in u(Delta).$",
+      "reason": "The next step writes $u = sum r_i a_i + z$ and obtains $x = (sum r_i pi^k a_i) b_j + x_1$, which requires the unit on the left of $pi^k b_j$; in the skewfield $D$ the order matters.",
+      "verified_by": "The following display of the proof; checks/sage/s12_14_local_skewfields.py, check of the correction to (13.3) (in (W/Q, theta, 2), W = Q((-3)^(1/2)), x = omega pi_D: the corrected unit gives x - u b_1 = 0, the printed order leaves v_D unchanged)."
+    },
+    {
+      "id": "C072",
+      "printed_page": "143",
+      "section": "§14",
+      "place": "Proof of (14.1)",
+      "original": "$N x = pi^(n f) N(x_0),$",
+      "corrected": "$N x = pi^(k f) N(x_0),$",
+      "reason": "Here $x = pi^k x_0$ and $N pi = pi^f$; no $n$ occurs in (14.1).",
+      "verified_by": "The preceding sentence; checks/sage/s12_14_local_skewfields.py, check of the correction to (14.1)."
+    },
+    {
+      "id": "C073",
+      "printed_page": "145",
+      "section": "§14",
+      "place": "Paragraph after (14.3)",
+      "original": "by (5.8) $W$ is an umramified extension of $K$",
+      "corrected": "by (5.8) $W$ is an unramified extension of $K$",
+      "reason": "Spelling.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C074",
+      "printed_page": "148",
+      "section": "§14",
+      "place": "Proof of (14.6)",
+      "original": "onto the field $W^* = K(omega^*) subset M_n (K)$",
+      "corrected": "onto the field $W^* = K(omega^*) subset M_n (W)$",
+      "reason": "The diagonal entries $theta^i (alpha)$ of $alpha^*$ lie in $W$.",
+      "verified_by": "The definition of $alpha^*$."
+    },
+    {
+      "id": "C075",
+      "printed_page": "149",
+      "section": "§14",
+      "place": "Proof of (14.6)",
+      "original": "$det a equiv pi dot N_(W slash K) alpha_1 quad mod pi^2 o_W,$",
+      "corrected": "$det a equiv (-1)^(n-1) pi dot N_(W slash K) alpha_1 quad mod pi^2 o_W,$",
+      "reason": "When $alpha_0 in pi o_W$, the only term of $det a$ not divisible by $pi^2$ comes from the $n$-cycle through the entries $theta^i (alpha_1)$ and $pi theta^(n-1) (alpha_1)$, whose sign is $(-1)^(n-1)$; compare $det pi_D^* = (-1)^(n-1) pi$ in Exercise 14.5. The argument uses only the valuation and is unaffected.",
+      "verified_by": "Expansion of the determinant of (14.7); checks/sage/s12_14_local_skewfields.py, check of the proof of (14.6) (generic determinant with alpha_0 = pi beta_0, n = 2, ..., 5; the printed congruence is refuted for n even); checks/lean/ReinerMaximalOrders/PrimeElementMatrix.lean, sign_cycle and det_piD."
+    },
+    {
+      "id": "C076",
+      "printed_page": "150",
+      "section": "§14",
+      "place": "Before (14.8)",
+      "original": "By (9.8), $tau$ is a symmetric nondegenerate associative bilinear form.",
+      "corrected": "By (9.9), $tau$ is a symmetric nondegenerate associative bilinear form.",
+      "reason": "Nondegeneracy of the reduced trace form is Theorem 9.9; (9.8) lists the identities for $tr$ and $nr$.",
+      "verified_by": "Statements of (9.8) and (9.9)."
+    },
+    {
+      "id": "C077",
+      "printed_page": "150",
+      "section": "§14",
+      "place": "Proof of (14.6), last paragraph",
+      "original": "if $a$ also commutes with $pi_D^*$. then writing $a = alpha_0^*$",
+      "corrected": "if $a$ also commutes with $pi_D^*$, then writing $a = alpha_0^*$",
+      "reason": "Punctuation: a full stop printed for the comma inside the sentence.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C078",
+      "printed_page": "150",
+      "section": "§14",
+      "place": "Definition of the inverse different",
+      "original": "$tilde(Delta) = {x in D : tau(x, Delta) subset R} = {x in D : tr(x Delta) subset R},$ By Exercise 4.12",
+      "corrected": "$tilde(Delta) = {x in D : tau(x, Delta) subset R} = {x in D : tr(x Delta) subset R}.$ By Exercise 4.12",
+      "reason": "Punctuation: the display ends the sentence; the next sentence begins with a capital.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C079",
+      "printed_page": "151",
+      "section": "§14",
+      "place": "Proof of (14.9)",
+      "original": "$pi^(-(n-1)) Delta = pi^(-1) dot pi_D Delta = dots.c$",
+      "corrected": "$pi_D^(-(n-1)) Delta = pi^(-1) dot pi_D Delta = dots.c$",
+      "reason": "Since $pi_D^n = pi$, it is $pi_D^(-(n-1))$ that equals $pi^(-1) pi_D$; the next display computes $tr(pi_D^(-(n-1)) Delta)$.",
+      "verified_by": "The surrounding displays; checks/sage/s12_14_local_skewfields.py, check of (14.9) (pi_D^(-(n-1)) = pi^(-1) pi_D, n = 2, 3)."
+    },
+    {
+      "id": "C080",
+      "printed_page": "151",
+      "section": "§14",
+      "place": "Proof of (14.9)",
+      "original": "for each $lambda in overline(o)_W$, $overline(T) (overline(lambda))$ is the image of $T_(W slash K) (lambda)$",
+      "corrected": "for each $lambda in o_W$, $overline(T) (overline(lambda))$ is the image of $T_(W slash K) (lambda)$",
+      "reason": "$T_(W slash K)$ is applied to $lambda$, so $lambda$ lies in $o_W$ and $overline(lambda)$ is its residue class.",
+      "verified_by": "The same sentence."
+    },
+    {
+      "id": "C081",
+      "printed_page": "152",
+      "section": "§14",
+      "place": "Exercise 14.4",
+      "original": "Let $Phi_4 (X) = X^4 + 1$, the cyclotomic polynomial of order 4. Show that $Phi_4 (X) = dots.c$",
+      "corrected": "Let $Phi_8 (X) = X^4 + 1$, the cyclotomic polynomial of order 8. Show that $Phi_8 (X) = dots.c$",
+      "reason": "$X^4 + 1$ is the cyclotomic polynomial of the primitive 8th roots of unity, as the exercise itself states for $omega$; $Phi_4 (X) = X^2 + 1$.",
+      "verified_by": "Factorization $X^8 - 1 = (X^4 - 1)(X^4 + 1)$; checks/sage/s12_14_local_skewfields.py, check of Exercise 14.4."
+    },
+    {
+      "id": "C082",
+      "printed_page": "165",
+      "section": "§16",
+      "place": "Proof of (16.12)",
+      "original": "$n' dot {(mu' (psi times.o 1) dot (m times.o n)}$",
+      "corrected": "$n' dot {(mu' (psi times.o 1)) dot (m times.o n)}$",
+      "reason": "Unbalanced parenthesis: the map $mu' (psi times.o 1)$ is applied to $m times.o n$, as $phi mu$ in the preceding display $n' {(phi mu) dot (m times.o n)}$.",
+      "verified_by": "The parallel display on p. 164."
+    },
+    {
+      "id": "C083",
+      "printed_page": "168",
+      "section": "§16",
+      "place": "Proof of (16.18)",
+      "original": "Let $f in Lambda$ correspond to $T_f in M_r (Lambda)$",
+      "corrected": "Let $f in Lambda$ correspond to $T_f in M_r (Delta)$",
+      "reason": "The matrices $T_f$ of (16.17) have entries $tau_(i j) in Delta$.",
+      "verified_by": "Formula (16.17)."
+    },
+    {
+      "id": "C084",
+      "printed_page": "172",
+      "section": "§17",
+      "place": "Proof of (17.3), proof of (ii)",
+      "original": "and hence $Lambda' = u Lambda u^(-1)$ since $Lambda'$ is maximal,",
+      "corrected": "and hence $Lambda' = u Lambda u^(-1)$ since $Lambda'$ is maximal.",
+      "reason": "Punctuation: the sentence and the paragraph end here.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C085",
+      "printed_page": "173",
+      "section": "§17",
+      "place": "Proof of (17.5)",
+      "original": "$Lambda slash rad Lambda tilde.equiv M_r (Lambda slash pi_D Delta) = M_r (Delta slash rad Delta).$",
+      "corrected": "$Lambda slash rad Lambda tilde.equiv M_r (Delta slash pi_D Delta) = M_r (Delta slash rad Delta).$",
+      "reason": "For $Lambda = M_r (Delta)$ one has $Lambda slash pi_D Lambda tilde.equiv M_r (Delta slash pi_D Delta)$.",
+      "verified_by": "The statement of (17.5)."
+    },
+    {
+      "id": "C086",
+      "printed_page": "173",
+      "section": "§17",
+      "place": "(17.7)",
+      "original": "$u x v = diag(pi_D^(a_1), dots, pi_D^(a_s)), quad 0 <= a_1 <= dots.c <= a_s$",
+      "corrected": "$u x v = diag(pi_D^(a_1), dots, pi_D^(a_s)), quad 0 <= a_1 <= dots.c <= a_s.$",
+      "reason": "Punctuation: the sentence ends with the display; the next sentence begins \"The integers\".",
+      "verified_by": "The same display in the proof of (17.8) ends with a full stop."
+    },
+    {
+      "id": "C087",
+      "printed_page": "174",
+      "section": "§17",
+      "place": "Proof of (17.8)",
+      "original": "$u x v = diag(1, dots, 1, pi_r) = x_r,$",
+      "corrected": "$u x v = diag(1, dots, 1, pi_D) = x_r,$",
+      "reason": "Here $a_r = 1$, so the last entry is $pi_D^(a_r) = pi_D$.",
+      "verified_by": "The preceding sentence."
+    },
+    {
+      "id": "C088",
+      "printed_page": "174",
+      "section": "§17",
+      "place": "Proof of (17.8), last paragraph",
+      "original": "Finally, let $x Lambda$ be maximal, By the above",
+      "corrected": "Finally, let $x Lambda$ be maximal. By the above",
+      "reason": "Punctuation: a full stop, as the capital \"By\" shows.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C089",
+      "printed_page": "178",
+      "section": "§18",
+      "place": "Paragraph after (18.6)",
+      "original": "Curtis–Reiner [1, Th. 75.11]",
+      "corrected": "Curtis–Reiner [1, Th. 76.8]",
+      "reason": "The result quoted (lattices are isomorphic as soon as they are isomorphic modulo $pi^q$, with $pi^(q-1) R$ the Higman ideal) is Theorem (76.8) of Curtis–Reiner, with $i(G) = pi^(k_0) R$ as in (76.1) and $q = k_0 + 1$; (75.11) is Higman's theorem that $i(G) != 0$ if and only if the algebra is separable.",
+      "verified_by": "Curtis, Reiner, Representation Theory of Finite Groups and Associative Algebras (1962), (75.11), (76.1) and (76.8)."
+    },
+    {
+      "id": "C090",
+      "printed_page": "179",
+      "section": "§18",
+      "place": "Proof of (18.7), first paragraph",
+      "original": "Since $hat(Lambda) slash rad hat(Lambda)$ is a simple artinian ring by (17.5). it follows from (18.2) that $overline(Lambda)$ is a primary ring.",
+      "corrected": "Since $hat(Lambda) slash rad hat(Lambda)$ is a simple artinian ring by (17.5), it follows from (18.2) that $overline(Lambda)$ is a primary ring.",
+      "reason": "Punctuation: a full stop printed for the comma; the sentence continues (lower-case \"it\").",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C091",
+      "printed_page": "180",
+      "section": "§18",
+      "place": "Remark (18.8)(iii)",
+      "original": "If $Lambda$ is a maximal order in a skewfield $D$ with center $K$,",
+      "corrected": "If $Delta$ is a maximal order in a skewfield $D$ with center $K$,",
+      "reason": "The order is called $Delta$ in the rest of the remark.",
+      "verified_by": "The following formulas."
+    },
+    {
+      "id": "C092",
+      "printed_page": "183",
+      "section": "§19",
+      "place": "Paragraph after (19.5)",
+      "original": "and for a given maximal order $Lambda$, any two maximal left ideals of $Lambda$ are conjugate by (18.9)",
+      "corrected": "and for a given maximal order $Lambda$, any two maximal left ideals of $Lambda$ are conjugate by (18.9).",
+      "reason": "The full stop is missing at the end of the paragraph.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C093",
+      "printed_page": "184",
+      "section": "§20",
+      "place": "Statement of (20.1)",
+      "original": "$frak(D)(tilde(Lambda) slash hat(R)) = hat(R) times.o_R frak(D)(Lambda slash R).$",
+      "corrected": "$frak(D)(hat(Lambda) slash hat(R)) = hat(R) times.o_R frak(D)(Lambda slash R).$",
+      "reason": "The different over $hat(R)$ is that of the completed order $hat(Lambda)$; the inverse different $tilde(Lambda)$ is not an order.",
+      "verified_by": "The proof of (20.1) and its use in (20.3)."
+    },
+    {
+      "id": "C094",
+      "printed_page": "189",
+      "section": "§21",
+      "place": "Proof of (21.6)",
+      "original": "then by (4.22) $N$ is a full right $Delta$-lattice in $A$,",
+      "corrected": "then by (4.22) $N$ is a full right $Delta$-lattice in $V$,",
+      "reason": "The lattices $X(P) = u_P M_P$ lie in $V$.",
+      "verified_by": "The definition of $X(P)$."
+    },
+    {
+      "id": "C095",
+      "printed_page": "189",
+      "section": "§21",
+      "place": "Proof of (21.7)",
+      "original": "we known that",
+      "corrected": "we know that",
+      "reason": "Grammar.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C096",
+      "printed_page": "194",
+      "section": "§22",
+      "place": "(22.14), first sentence",
+      "original": "Let $S$ denote the integral closure of $R$ in $L$.",
+      "corrected": "Let $S$ denote the integral closure of $R$ in $L$, and let $Lambda$ be a maximal $R$-order in $A$.",
+      "reason": "The statement uses $Lambda$ (the prime ideals $frak(P)_i$ of $Lambda$, $P_i Lambda = frak(P)_i^(m_i)$) without introducing it; the sentence before the theorem speaks of a maximal $R$-order in a simple $K$-algebra, and the proof uses that $hat(Lambda)$ is a maximal $hat(S)$-order in $hat(A)$.",
+      "verified_by": "The sentence before (22.14) and its proof; checks/sage/s21_25_ideal_theory.py, check of (22.14) for $Lambda = M_2(bold(Z)[i])$."
+    },
+    {
+      "id": "C097",
+      "printed_page": "195",
+      "section": "§22",
+      "place": "Proof of (22.14), last sentence",
+      "original": "Assertion (iii) follows from (i), by virtue of (14.3).",
+      "corrected": "Assertion (iii) follows from (ii), by virtue of (14.3).",
+      "reason": "By (ii), $m_i$ is the ramification index of the skewfield part $D$ of $hat(A)$; (14.3) gives $e(D slash hat(L)) = n$, the index, when the residue class field is finite. The factorization (i) plays no role.",
+      "verified_by": "Statement of (14.3) (e = f = n for $(D : K) = n^2$, finite residue field)."
+    },
+    {
+      "id": "C098",
+      "printed_page": "196",
+      "section": "§22",
+      "place": "Proof of (22.15), first sentence",
+      "original": "Given a maximal ideal $M$ of $Lambda$,",
+      "corrected": "Given a maximal left ideal $M$ of $Lambda$,",
+      "reason": "The theorem is about a maximal left ideal $M$, and the proof uses that $Lambda slash M$ is a simple left module; a maximal two-sided ideal would itself be the prime ideal.",
+      "verified_by": "Statement of (22.15); checks/sage/s21_25_ideal_theory.py, enumeration of all left ideals of $Lambda slash p Lambda$, $p <= 7$."
+    },
+    {
+      "id": "C099",
+      "printed_page": "201",
+      "section": "§22",
+      "place": "Proof of (22.28), first line of the page",
+      "original": "$frak(A) = product_1^n frak(P)_i^(a_i)$; where the ${frak(P)_i}$ are distinct prime ideals",
+      "corrected": "$frak(A) = product_1^n frak(P)_i^(a_i)$, where the ${frak(P)_i}$ are distinct prime ideals",
+      "reason": "Punctuation: a semicolon before the dependent where-clause.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C100",
+      "printed_page": "204",
+      "section": "§23",
+      "place": "Introduction, before (23.1)",
+      "original": "(We shall eventually remedy this asymmetry in the definitions (see (23.2), (23.10), and (23.11).)",
+      "corrected": "(We shall eventually remedy this asymmetry in the definitions (see (23.2), (23.10), and (23.11)).)",
+      "reason": "Missing closing parenthesis: the parenthesis opened by \"(see\" is not closed.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C101",
+      "printed_page": "207",
+      "section": "§23",
+      "place": "Proof of (23.9)",
+      "original": "where $e in Lambda$ is such that its image $breve(e)$ is a primitive idempotent in $overline(Lambda)$.",
+      "corrected": "where $e in Lambda$ is such that its image $overline(e)$ is a primitive idempotent in $overline(Lambda)$.",
+      "reason": "The image in $overline(Lambda) = Lambda slash frak(P)$ is denoted by a bar in the same sentence; the accent over $e$ is printed as a breve.",
+      "verified_by": "The printed text: the accent over e is curved, the bars over $Lambda$ on the same line are straight."
+    },
+    {
+      "id": "C102",
+      "printed_page": "208",
+      "section": "§23",
+      "place": "End of the proof of (23.9)",
+      "original": "and completes the proof of the theorem.",
+      "corrected": "and completes the proof of the corollary.",
+      "reason": "(23.9) is a corollary; the proof ends there, and (23.10) is the next theorem.",
+      "verified_by": "Heading of (23.9) on p. 207."
+    },
+    {
+      "id": "C103",
+      "printed_page": "210",
+      "section": "§24",
+      "place": "Proof of (24.2), part (i), displayed formula",
+      "original": "$N(M_P) = ord_(R_P) Lambda_P slash M_P = R_P times.o_R ord_R Lambda slash M = {N(M))}_P,$",
+      "corrected": "$N(M_P) = ord_(R_P) Lambda_P slash M_P = R_P times.o_R ord_R Lambda slash M = {N(M)}_P,$",
+      "reason": "Unbalanced parenthesis: the closing parenthesis after $N(M)$ is doubled.",
+      "verified_by": "The same expression $\\{N(M)\\}_P$ in the statement (24.2)(i)."
+    },
+    {
+      "id": "C104",
+      "printed_page": "213",
+      "section": "§24",
+      "place": "Proof of (24.8), last paragraph",
+      "original": "However, $frak(P)$ and $frak(P)'$ are similar by (24.22),",
+      "corrected": "However, $frak(P)$ and $frak(P)'$ are similar by (22.22),",
+      "reason": "Section 24 has no item (24.22). The cited fact is Corollary (22.22): if a maximal integral ideal $M_(12)$ belongs to the prime ideal $frak(P)_1$ of $Lambda_1$ and to the prime ideal $frak(P)_2$ of $Lambda_2$, then $frak(P)_2 = phi_(12) (frak(P)_1)$, so that $frak(P)_1$ and $frak(P)_2$ are similar (text after (22.23): \"by (22.22), each maximal integral ideal determines a pair of similar prime ideals\").",
+      "verified_by": "Text of (22.22) and the paragraph after (22.23), p. 199."
+    },
+    {
+      "id": "C105",
+      "printed_page": "213",
+      "section": "§24",
+      "place": "Proof of (24.8), last paragraph (two places)",
+      "original": "This proves the theorem. It should be pointed out that ... so the assertion of the theorem holds equally well when we work with $frak(P)'$ rather than $frak(P)$.",
+      "corrected": "This proves the corollary. It should be pointed out that ... so the assertion of the corollary holds equally well when we work with $frak(P)'$ rather than $frak(P)$.",
+      "reason": "(24.8) is a Corollary. The edition corrects the same slip elsewhere: the end of the proof of Corollary (23.9) ('theorem' -> 'corollary', §23) and of Lemma (26.1) ('theorem' -> 'lemma', §26).",
+      "verified_by": "The §23 and §26 corrections."
+    },
+    {
+      "id": "C106",
+      "printed_page": "214",
+      "section": "§24",
+      "place": "Proof of (24.9), before the display",
+      "original": "and so $N(J) = R dot N a$ by Exercise 10.7. On the other hand.",
+      "corrected": "and so $N(J) = R dot N a$ by Exercise 10.7. On the other hand,",
+      "reason": "Punctuation: the sentence continues in the following display.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C107",
+      "printed_page": "216",
+      "section": "§24",
+      "place": "Exercise 24.4, second sentence",
+      "original": "Defined a _$J$-adic valuation_ $w$ on $A$ as follows:",
+      "corrected": "Define a _$J$-adic valuation_ $w$ on $A$ as follows:",
+      "reason": "Grammar: imperative verb.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C108",
+      "printed_page": "217",
+      "section": "§25",
+      "place": "first sentence of the section",
+      "original": "Through this section let $Lambda$ be a maximal $R$-order in the separable $K$-algebra $A$,",
+      "corrected": "Throughout this section let $Lambda$ be a maximal $R$-order in the separable $K$-algebra $A$,",
+      "reason": "Missing syllable: the book's standard opening (§§24, 26: \"Throughout this section let ...\").",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C109",
+      "printed_page": "219",
+      "section": "§25",
+      "place": "Proof of (25.4), Step 2, end of the first paragraph",
+      "original": "we conclude that also red, char. pol. $a$ (taken mod $P$) is a power of $X$.",
+      "corrected": "we conclude that also $redcharpol a$ (taken mod $P$) is a power of $X$.",
+      "reason": "Comma for the abbreviation point in \"red. char. pol.\" (printed correctly two lines above and in the next display).",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C110",
+      "printed_page": "220 and References",
+      "section": "§25",
+      "place": "Proof of (25.4), Step 4",
+      "original": "\"(see van der Waerden [1])\", with no van der Waerden entry in the References",
+      "corrected": "The References gain the entry van der Waerden [1], Modern Algebra, Vols. I, II, Ungar, New York, 1949.",
+      "reason": "The citation has no target in the printed list; the theorem of the primitive element is in Vol. I of Modern Algebra. Treated like the Milnor citation of Exercise 7.4.",
+      "verified_by": "The References of the book; the edition used by Curtis–Reiner (1962) for the same citation."
+    },
+    {
+      "id": "C111",
+      "printed_page": "226",
+      "section": "§26",
+      "place": "Proof of (26.1), last sentence",
+      "original": "This completes the proof of the theorem.",
+      "corrected": "This completes the proof of the lemma.",
+      "reason": "(26.1) is a Lemma; the proofs of (26.2) and (26.3) end with \"the lemma\" / \"the proof is complete\".",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C112",
+      "printed_page": "226",
+      "section": "§26",
+      "place": "Proof of (26.2), displayed exact sequence",
+      "original": "$O -> N -> M -> J -> O,$",
+      "corrected": "$0 -> N -> M -> J -> 0,$",
+      "reason": "Misprint: italic capital O printed for the zero module at both ends of the short exact sequence.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C113",
+      "printed_page": "231",
+      "section": "§26",
+      "place": "Exercise 26.1, first sentence",
+      "original": "For nonzero $alpha in R$. let $abs(alpha) = card R slash R alpha$,",
+      "corrected": "For nonzero $alpha in R$, let $abs(alpha) = card R slash R alpha$,",
+      "reason": "Punctuation: the sentence continues (lower-case \"let\").",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C114",
+      "printed_page": "231",
+      "section": "§26",
+      "place": "Exercise 26.4, hint, displayed formula",
+      "original": "$rank_(R') M = (L : K) dot rank_R M.$",
+      "corrected": "$rank_R M = (L : K) dot rank_(R') M.$",
+      "reason": "The two ranks are interchanged. For a $Lambda'$-lattice $M$, $K M = L M$ is an $L$-space of dimension $rank_(R') M$, so $rank_R M = (K M : K) = (L : K) dot (L M : L) = (L : K) dot rank_(R') M$; the printed formula would make the $R'$-rank the larger one. The corrected form is what the hint needs: bounded $R'$-rank gives bounded $R$-rank.",
+      "verified_by": "Direct computation of dimensions; checks/sage/s26_27_classes_genus.py, check of Exercise 26.4."
+    },
+    {
+      "id": "C115",
+      "printed_page": "232",
+      "section": "§26",
+      "place": "Exercise 26.6, displayed formula",
+      "original": "$v(a, b) = (0, r b), quad (a, b) in M_r.$",
+      "corrected": "$v(a, b) = (0, r a), quad (a, b) in M_r.$",
+      "reason": "With the printed action $v^2 (a, b) = (0, r^2 b) != 0$ for $b != 0$, although $v^2 = 0$ in $A$; so $M_r$ would not be a $Lambda$-module. With $v(a, b) = (0, r a)$ one has $v^2 = 0$, $v M_r = 0 dotplus r bold(Z)$ and $M_r slash v M_r tilde.equiv bold(Z) dotplus bold(Z) slash r bold(Z)$, which determines $r$, as the hint \"(Consider $M_r slash v M_r$.)\" intends.",
+      "verified_by": "Direct computation; checks/sage/s26_27_classes_genus.py, check of Exercise 26.6 ($r <= 30$): $v^2 = 0$ and $M_r slash v M_r tilde.equiv bold(Z) dotplus bold(Z) slash r bold(Z)$; the printed action has $v^2 != 0$."
+    },
+    {
+      "id": "C116",
+      "printed_page": "240",
+      "section": "§28",
+      "place": "(28.9), end of the second paragraph",
+      "original": "We shall called $E$ a _self-centralizing maximal subfield_ of $B$.",
+      "corrected": "We shall call $E$ a _self-centralizing maximal subfield_ of $B$.",
+      "reason": "Grammar: \"shall\" takes the infinitive.",
+      "verified_by": "The printed word is \"called\"."
+    },
+    {
+      "id": "C117",
+      "printed_page": "241",
+      "section": "§28",
+      "place": "Exercise 28.2",
+      "original": "Show that the set of subfields of $M_r (K)$ which contain the center $K$ of $M_r (K)$ is in one-to-one correspondence with the set of extension fields $E$ of $K$ for which $(E : K)$ divides $r$.",
+      "corrected": "Show that the set of conjugacy classes of subfields of $M_r (K)$ which contain the center $K$ of $M_r (K)$ is in one-to-one correspondence with the set of isomorphism classes of extension fields $E$ of $K$ for which $(E : K)$ divides $r$.",
+      "reason": "A subfield of $M_r (K)$ is determined by its isomorphism type only up to conjugation (Skolem–Noether, (7.21)): $M_2 (bold(Q))$ contains distinct conjugate subfields $bold(Q)(X_1)$, $bold(Q)(X_2)$ with $X_1^2 = X_2^2 = -1$. The correspondence holds between conjugacy classes and isomorphism classes.",
+      "verified_by": "Theorem (7.21); checks/sage/s28_29_crossed_products.py, check of Exercise 28.2 in $M_2 (bold(Q))$."
+    },
+    {
+      "id": "C118",
+      "printed_page": "245",
+      "section": "§29",
+      "place": "proof of (29.9), line 6",
+      "original": "then $f(x) = minpol_K a$ has degree $n$",
+      "corrected": "then $f(X) = minpol_K a$ has degree $n$",
+      "reason": "The polynomial variable is $X$, as in the next paragraph: $f(X) = (X - a) dot product (X - sigma a)$.",
+      "verified_by": "The printed text: lowercase x printed."
+    },
+    {
+      "id": "C119",
+      "printed_page": "245",
+      "section": "§29",
+      "place": "proof of (29.9), second line of the display for $e^2$",
+      "original": "$= e dot product (a - sigma a) times.o 1) slash product (a - sigma a) times.o 1$",
+      "corrected": "$= e dot product ((a - sigma a) times.o 1) slash product (a - sigma a) times.o 1$",
+      "reason": "Unbalanced parenthesis: the factor is $(a - sigma a) times.o 1$, obtained from $e(1 times.o sigma a) = e(sigma a times.o 1)$ by (29.10).",
+      "verified_by": "The printed text; checks/sage/s28_29_crossed_products.py, check $e^2 = e$ in (29.9)."
+    },
+    {
+      "id": "C120",
+      "printed_page": "246",
+      "section": "§29",
+      "place": "proof of (29.9): display before (29.11), (29.11), and the next sentence",
+      "original": "$e(u_sigma times.o v_tau) e = (u_sigma times.o v_tau) dot {product (sigma alpha times.o 1 - 1 times.o tau rho a) slash product (sigma a - sigma rho a) times.o 1} dot e$; (29.11) $e(u_sigma times.o v_tau) e = (u_sigma times.o v_tau) dot e dot product (sigma a - tau rho a) times.o 1 slash product (sigma a - sigma rho a) times.o 1$; \"If $sigma != tau$, then $sigma a - tau rho a = 0$ for $rho = tau^(-1) sigma in G - {1}$\"",
+      "corrected": "$e(u_sigma times.o v_tau) e = (u_sigma times.o v_tau) dot {product (sigma^(-1) a times.o 1 - 1 times.o tau^(-1) rho a) slash product (sigma^(-1) a - sigma^(-1) rho a) times.o 1} dot e$; (29.11) $e(u_sigma times.o v_tau) e = (u_sigma times.o v_tau) dot e dot product (sigma^(-1) a - tau^(-1) rho a) times.o 1 slash product (sigma^(-1) a - sigma^(-1) rho a) times.o 1$; \"If $sigma != tau$, then $sigma^(-1) a - tau^(-1) rho a = 0$ for $rho = tau sigma^(-1) in G - {1}$\"",
+      "reason": "By (29.1), $x u_sigma = u_sigma sigma^(-1)(x)$, so moving $e$ to the right of $u_sigma times.o v_tau$ applies $sigma^(-1) times.o tau^(-1)$ to $e$. The printed factors $sigma a$, $tau rho a$ come from $(sigma times.o tau)(e)$, which differs from $(sigma^(-1) times.o tau^(-1))(e)$ whenever $sigma^(-1) tau != sigma tau^(-1)$ (for instance for $sigma != tau = 1$ when $L slash K$ is cyclic of degree 3). The printed displays are still true equalities, but only because both sides vanish for $sigma != tau$, which is what is being proved; with the inverses they follow from (29.1). The printed \"$sigma alpha$\" is also a misprint for an element of $L$. The conclusions ($e(u_sigma times.o v_tau) e = 0$ for $sigma != tau$, $= (u_sigma times.o v_sigma) e$ for $sigma = tau$) are unchanged.",
+      "verified_by": "Computation from (29.1); checks/sage/s28_29_crossed_products.py, check of (29.9) over the cyclic cubic field of conductor 7 and the splitting field of $x^3 - 2$ (all $sigma, tau$); checks/lean/ReinerMaximalOrders/CrossedProduct.lean, mul_unit_eq_unit_mul_inv."
+    },
+    {
+      "id": "C121",
+      "printed_page": "250",
+      "section": "§29",
+      "place": "proof of (29.16), lines 3-6",
+      "original": "for each $x in L$, let $T(x) in M_r (L)$ describe the action of $x$ by left multiplication ...; $x(e_1, dots, e_r) = (e_1, dots, e_r) T(x), quad x in L.$",
+      "corrected": "for each $x in E$, let $T(x) in M_r (L)$ describe the action of $x$ by left multiplication ...; $x(e_1, dots, e_r) = (e_1, dots, e_r) T(x), quad x in E.$",
+      "reason": "T is the regular representation of $E$ over $L$: (29.17) has $x in E$, and $T(E)$ is a field $L$-isomorphic to $E$; for $x in L$ the matrix $T(x)$ is scalar.",
+      "verified_by": "The printed text; checks/sage/s28_29_crossed_products.py, check of (29.16): $T(x)$ is scalar for $x in L$, and (29.18), (29.19) hold with $T$ on $E$."
+    },
+    {
+      "id": "C122",
+      "printed_page": "250",
+      "section": "§29",
+      "place": "proof of (29.16), definition of $P_rho$",
+      "original": "each $rho in G$ may be viewed as an element of $Hom_L (E, E)$,",
+      "corrected": "each $rho in G$ may be viewed as an element of $Hom_K (E, E)$,",
+      "reason": "Only the $rho in H = Gal(E slash L)$ are $L$-linear; for $rho in G - H$, $rho(lambda x) = rho(lambda) rho(x) != lambda rho(x)$ for suitable $lambda in L$. The matrix $P_rho$ is defined by the images of the basis, which needs only $rho in Hom_K (E, E)$, and the next computation uses exactly the semilinearity $sigma(bold(e) T(x)) = sigma(bold(e)) sigma(T(x))$.",
+      "verified_by": "checks/sage/s28_29_crossed_products.py, check of (29.16) for $E$ the splitting field of $x^3 - 2$ over $L = bold(Q)(sqrt(-3))$ and for $E = bold(Q)(zeta_8)$ over $L = bold(Q)(i)$."
+    },
+    {
+      "id": "C123",
+      "printed_page": "252",
+      "section": "§29",
+      "place": "proof of (29.16), first display",
+      "original": "$v_sigma dot T(x) = P_rho dot sigma(T(x)) dot u_(overline(sigma))$",
+      "corrected": "$v_sigma dot T(x) = P_sigma dot sigma(T(x)) dot u_(overline(sigma))$",
+      "reason": "$v_sigma = P_sigma u_(overline(sigma))$; the previous display on p. 251 has $P_sigma$.",
+      "verified_by": "The printed text; checks/sage/s28_29_crossed_products.py, check of (29.16): $v_sigma dot T(x) = P_sigma dot sigma(T(x)) dot u_(overline(sigma))$, and $P_rho$ with $rho != sigma$ gives a different element."
+    },
+    {
+      "id": "C124",
+      "printed_page": "252",
+      "section": "§29",
+      "place": "Remarks (i), line 6",
+      "original": "there is a homomorphsim",
+      "corrected": "there is a homomorphism",
+      "reason": "Misprint.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C125",
+      "printed_page": "256",
+      "section": "§29",
+      "place": "Exercise 29.7, hint",
+      "original": "But index $[D_i] = p_i^(c_i)$ for some $c_i >= 1$, by (29.22).",
+      "corrected": "But index $[D_i] = p_i^(c_i)$ for some $c_i >= 1$, by (29.24).",
+      "reason": "(29.22) gives only that $exp [D_i] = p_i^(b_i)$ divides the index; that the index is a power of $p_i$ is (29.24) (same prime factors).",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C126",
+      "printed_page": "257",
+      "section": "§29",
+      "place": "Exercise 29.10, line 4 (twice)",
+      "original": "identify $Hom_(bold(Z) G) (G_0, M)$ with $M$, letting $f in Hom_(bold(Z) G) (G_0, M)$",
+      "corrected": "identify $Hom_(bold(Z) G) (Q_0, M)$ with $M$, letting $f in Hom_(bold(Z) G) (Q_0, M)$",
+      "reason": "$Q_0$ is the free module on the empty bracket (Exercise 29.8); $G_0$ is not defined.",
+      "verified_by": "The printed text: G with crossbar, unlike Q of $Q_n$."
+    },
+    {
+      "id": "C127",
+      "printed_page": "257",
+      "section": "§29",
+      "place": "Exercise 29.9, display after (29.27)",
+      "original": "$d_i^* f = f d_i, quad f in Hom_(bold(Z) G) (Q_i, M).$",
+      "corrected": "$d_i^* f = f d_i, quad f in Hom_(bold(Z) G) (Q_(i-1), M), quad Q_(-1) = bold(Z).$",
+      "reason": "$d_i$ maps $Q_i$ to $Q_(i-1)$ ($d_0$ maps $Q_0$ to $bold(Z)$), so $f d_i$ is defined for $f$ on $Q_(i-1)$. This is the indexing of (29.27), where $d_0^*$ starts at $Hom_(bold(Z) G) (bold(Z), M)$ and $d_1^*$ at $Hom_(bold(Z) G) (Q_0, M)$, and of Exercise 29.10, $(d_1^* f)[x] = f(d_1 [x])$ for $f in Hom_(bold(Z) G) (Q_0, M)$.",
+      "verified_by": "(29.26), (29.27) and Exercise 29.10; checks/sage/s28_29_crossed_products.py, checks of Exercises 29.8-29.10 for $G = C_2, C_3, S_3$."
+    },
+    {
+      "id": "C128",
+      "printed_page": "258",
+      "section": "§29",
+      "place": "Exercise 29.11, last line",
+      "original": "a special case of the cohomology groups given in Exercise 29.8.",
+      "corrected": "a special case of the cohomology groups given in Exercise 29.9.",
+      "reason": "The groups $H^n (G, M)$ are defined in Exercise 29.9; Exercise 29.8 gives only the resolution (29.26).",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C129",
+      "printed_page": "263",
+      "section": "§31",
+      "place": "first paragraph of the section, line 3",
+      "original": "and $v_K$ the exponental valuation on $K$",
+      "corrected": "and $v_K$ the exponential valuation on $K$",
+      "reason": "Misprint of the word 'exponential' (the term of §5 and of p. 267 of the same section).",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C130",
+      "printed_page": "274",
+      "section": "§32",
+      "place": "(32.3)",
+      "original": "$cases(op(\"inv\") [A_P] = s_P slash m_P, exp [A_P] = m_P.) \",\" quad \"where\" m_P = index [A_P], quad (s_P, m_P) = 1,$",
+      "corrected": "$cases(op(\"inv\") [A_P] = s_P slash m_P, exp [A_P] = m_P) \",\" quad \"where\" m_P = index [A_P], quad (s_P, m_P) = 1.$",
+      "reason": "Punctuation: the sentence ends with the display (the next paragraph begins \"We would like ...\"); the period printed after the second line inside the brace belongs at the end, where a comma is printed.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C131",
+      "printed_page": "284",
+      "section": "§33",
+      "place": "(33.6)",
+      "original": "$U(A) = {alpha in K : alpha_P > 0 \"at each real prime\" P \"of\" K \"ramified in\" A}$",
+      "corrected": "$U(A) = {alpha in K^* : alpha_P > 0 \"at each real prime\" P \"of\" K \"ramified in\" A}$",
+      "reason": "With $alpha in K$ the set contains $0$ when no real prime ramifies, but the proof of (33.15) asserts $nr_(A slash K) u(A) = U(A)$ and applies (33.13), which needs $beta != 0$, to every $beta in U(A)$; (33.7) and (33.15) are stated for $alpha in K^*$, and the author restates the definition with $K^*$ at the start of §34 (p. 292).",
+      "verified_by": "Consistency with (33.7), (33.13), (33.15) and the §34 notation list."
+    },
+    {
+      "id": "C132",
+      "printed_page": "285",
+      "section": "§33",
+      "place": "proof of (33.8), Step 3, line 2",
+      "original": "Hence we may choose $d in R$ such that",
+      "corrected": "Hence we may choose $d in bold(R)$ such that",
+      "reason": "$d$ is a real number ($0 < d < abs(xi)$); the lemma has no ring $R$, and the real field is printed in boldface elsewhere in the proof ($K = bold(R)$ or $bold(C)$). Italic $R$ is a font slip.",
+      "verified_by": "The printed text: italic R."
+    },
+    {
+      "id": "C133",
+      "printed_page": "286",
+      "section": "§33",
+      "place": "proof of (33.8), Step 3, last paragraph",
+      "original": "By Step 1, it follows that $xi in K(gamma)$.",
+      "corrected": "By Step 2, it follows that $xi in K(gamma)$.",
+      "reason": "The implication used, $abs(gamma - xi) < h ==> xi in K(gamma)$, is (33.9), proved in Step 2 (Krasner's Lemma); Step 1 is the archimedean case.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C134",
+      "printed_page": "287–288",
+      "section": "§33",
+      "place": "proof of (33.12): range of $t$ (p. 287) and the bound for $lambda$ (p. 288)",
+      "original": "where $0 < t < n - 1$; $lambda <= (q^(n slash 2) - 1)(q - 1)(n - 2)$",
+      "corrected": "where $0 < t <= n - 1$; $lambda <= (q^(n slash 2) - 1)(q - 1)(n - 1)$",
+      "reason": "$t = j - i$ with $0 <= i < j <= n - 1$, so $t = n - 1$ occurs ($i = 0$, $j = n - 1$); for $n = 2$ the printed range is empty and the printed bound gives $lambda <= 0$, although $lambda = (q - 1)^2 > 0$. The corrected bound still gives the contradiction: $(q^(n slash 2) - 1)(q - 1)(n - 1) < q^n - 1$ is equivalent to $(q - 1)(n - 1) < q^(n slash 2) + 1$, which holds for $n = 2, 3$ directly and for $n >= 4$ since $q^(n slash 2) >= q(1 + (n - 2)(q - 1) slash 2) >= q + (n - 2)(q - 1)$.",
+      "verified_by": "checks/sage/s33_reduced_norms.py, check of (33.12) (all prime powers $q < 200$, $2 <= n < 60$, divisors $s < n$, $1 <= t <= n - 1$; printed readings refuted); checks/lean/ReinerMaximalOrders/UnramifiedNormBound.lean (lambda_lt, not_dvd, printed_bound_fails)"
+    },
+    {
+      "id": "C135",
+      "printed_page": "292",
+      "section": "§33",
+      "place": "Exercise 2, line 3",
+      "original": "Prove that _nr_ is continuous",
+      "corrected": "Prove that $nr$ is continuous",
+      "reason": "The reduced norm is printed in roman everywhere else, also in the same exercise (\"Let $nr: A -> K$\"); the italic is a font slip.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C136",
+      "printed_page": "294",
+      "section": "§34",
+      "place": "(34.5)(iv)",
+      "original": "$S''$ is any finite collection (possible empty) of primes of $R$",
+      "corrected": "$S''$ is any finite collection (possibly empty) of primes of $R$",
+      "reason": "Typo: adverb required.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C137",
+      "printed_page": "298",
+      "section": "§34",
+      "place": "(34.10)",
+      "original": "$r Lambda_i subset Lambda, quad i = 1, dots, kappa.$",
+      "corrected": "$r Lambda_i subset Lambda_j, quad 1 <= i, j <= kappa.$",
+      "reason": "Step 5 applies Steps 1-4 \"for all maximal orders\" with the same $r$ and $d$, to $Lambda' = O_l (M_2)$; Step 3 then needs $r y in Lambda'$ for $y$ in a conjugate $u Lambda_i u^(-1)$, that is $r Lambda_i subset Lambda_j$ where $Lambda' = u Lambda_j u^(-1)$. The printed condition gives this only for $Lambda_j = Lambda$: in $M_2 (K)$, $K = bold(Q)(sqrt(-21))$, the orders $Lambda_frak(b) = mat((R), (frak(b)^(-1)); (frak(b)), (R))$ for $frak(b) = R, frak(p)_2, frak(p)_3, frak(p)_2^(-1) frak(p)_3$ satisfy $r Lambda_frak(b) subset Lambda_R$ with $r = 3 + sqrt(-21)$, but $r Lambda_(frak(p)_2) subset.not Lambda_(frak(p)_2^(-1) frak(p)_3)$. Such an $r$ exists since there are finitely many $Lambda_i$; with $Lambda_1 = Lambda$ the condition contains the printed one, so the use of (34.10) in Step 3 is unchanged.",
+      "verified_by": "checks/sage/s34_eichler.py, check of (34.10)."
+    },
+    {
+      "id": "C138",
+      "printed_page": "300",
+      "section": "§34",
+      "place": "proof of (34.9), Step 3, condition (i)",
+      "original": "$overline(f)(X)$ has no zero in $overline(R)[X]$, where $overline(R) = R slash P$.",
+      "corrected": "$overline(f)(X)$ has no zero in $overline(R)$, where $overline(R) = R slash P$.",
+      "reason": "A polynomial over the field $overline(R)$ has its zeros in $overline(R)$, not in the polynomial ring; the same page (choice of $f_P (X)$: 'has no zeros in the field $overline(R) = R slash P$') and Step 4 ('Since $overline(f)(X)$ has no zeros in $overline(R)$') use the intended reading.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C139",
+      "printed_page": "301",
+      "section": "§34",
+      "place": "(34.16)",
+      "original": "$x_j = tau_j x tau_j^(-1) = 1 + tau_j dot r y dot t tau_j^(-1) quad in Lambda$",
+      "corrected": "$x_j = tau_j^(-1) x tau_j = 1 + t tau_j^(-1) dot r y dot tau_j quad in Lambda$",
+      "reason": "Step 4 (p. 302) derives $psi(1) = overline(tau)_j^(-1) overline(x) overline(tau)_j dot phi(1)$ and then writes this as $overline(x)_j phi(1)$ with $x_j$ 'defined by (34.16)'; with the printed definition $overline(x)_j = overline(tau)_j overline(x) overline(tau)_j^(-1)$, which differs in general (over $bold(F)_3$: $x = mat(0, -1; 1, 0)$, $tau = mat(1, 1; 0, 1)$ give $tau x tau^(-1) = mat(1, 1; 1, 2) != mat(2, 1; 1, 1) = tau^(-1) x tau$). Defining $x_j$ as the conjugate the other way makes the chain correct; $x_j in Lambda$ still follows from $t tau_j^(-1) in Lambda$ (34.13), $r y in Lambda$, $tau_j in Lambda$, and $nr x_j = nr x = 1$ is unchanged. The fix in (34.16) is the smallest change (Step 4 would need three).",
+      "verified_by": "checks/sage/s34_eichler.py, check of (34.16): over $bold(F)_2$, $bold(F)_3$ ($n = 2$) and $bold(F)_2$ ($n = 3$), for all $overline(x)$ without eigenvalues, all independent $phi(1), psi(1)$ and all $v != 0$, $psi(1) = overline(tau)^(-1) overline(x) overline(tau) phi(1)$; the printed reading fails over $bold(F)_3$"
+    },
+    {
+      "id": "C140",
+      "printed_page": "301",
+      "section": "§34",
+      "place": "line after (34.16)",
+      "original": "follows from (34.13) Then $nr x_j = nr x = 1$",
+      "corrected": "follows from (34.13). Then $nr x_j = nr x = 1$",
+      "reason": "Missing full stop.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C141",
+      "printed_page": "301",
+      "section": "§34",
+      "place": "proof of (34.9), Step 4, pair of exact sequences",
+      "original": "$0 -> M -> Lambda ->^phi V -> 0. quad 0 -> N -> Lambda ->^psi V -> 0,$",
+      "corrected": "$0 -> M -> Lambda ->^phi V -> 0, quad 0 -> N -> Lambda ->^psi V -> 0,$",
+      "reason": "Full stop in the middle of a displayed pair; comma as after the second sequence.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C142",
+      "printed_page": "305",
+      "section": "§34",
+      "place": "proof of (34.21), first line",
+      "original": "If $L' = L x$, then $nr L' = (nr x)(nr L')$",
+      "corrected": "If $L' = L x$, then $nr L' = (nr x)(nr L)$",
+      "reason": "$nr L x = (nr x)(nr L)$ by (24.11)/(24.12); the printed $(nr L')$ is a slip.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C143",
+      "printed_page": "305",
+      "section": "§34",
+      "place": "Exercise 34.1, hint, factorization",
+      "original": "$h(X) = (X - lambda)(X^(n-2) + dots.c + (-1)^(n-1) lambda^(-1))$",
+      "corrected": "$h(X) = (X - lambda)(X^(n-1) + dots.c + (-1)^(n-1) lambda^(-1))$",
+      "reason": "$h(X)$ is monic of degree $n$, so the cofactor of $X - lambda$ is monic of degree $n - 1$; its constant term $(-1)^(n-1) lambda^(-1)$ is forced by the constant term $(-1)^n$ of $h$.",
+      "verified_by": "checks/sage/s34_eichler.py, check of Exercise 34.1 (all $q <= 9$, $n <= 5$)"
+    },
+    {
+      "id": "C144",
+      "printed_page": "305",
+      "section": "§34",
+      "place": "Exercise 34.1, hint, count",
+      "original": "There are at most $q - 1$ choice for $lambda$, and at most $q^(n-2)$ choices for the factor of degree $n - 2$.",
+      "corrected": "There are at most $q - 1$ choices for $lambda$, and at most $q^(n-2)$ choices for the factor of degree $n - 1$.",
+      "reason": "Plural typo; the cofactor has degree $n - 1$ (see the previous entry). The count $q^(n-2)$ is right: a monic cofactor of degree $n - 1$ with fixed constant term has $n - 2$ free coefficients, which gives the bound $(q - 1) q^(n-2)$ used next.",
+      "verified_by": "checks/sage/s34_eichler.py, check of Exercise 34.1 (all $q <= 9$, $n <= 5$)"
+    },
+    {
+      "id": "C145",
+      "printed_page": "306",
+      "section": "§34",
+      "place": "Exercise 34.3, hint",
+      "original": "$overline(h)(X) = overline(alpha) X - overline(beta) = alpha (X - overline(beta) overline(alpha)^(-1))$",
+      "corrected": "$overline(h)(X) = overline(alpha) X - overline(beta) = overline(alpha) (X - overline(beta) overline(alpha)^(-1))$",
+      "reason": "The factorization is in $overline(R)[X]$; the bar over the leading factor is missing.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C146",
+      "printed_page": "306",
+      "section": "§34",
+      "place": "Exercise 34.4, first sentence",
+      "original": "Let $m, n$ be positive integers. Show that there exists a positive integer $k$",
+      "corrected": "Let $m, n$ be positive integers such that $n != 0$ in $R$. Show that there exists a positive integer $k$",
+      "reason": "If $R$ has characteristic $p$ dividing $n$, the statement fails: in $R = bold(F)_p [[t]]$ every $p$-th power is a power series in $t^p$, so $u = 1 + t^(k')$ with $k' >= k$, $p divides.not k'$, is not an $n$-th power, for every $k$. The hint writes $n = pi^e alpha$ with $alpha in u(R)$ (Exercise 34.2), which presupposes $n != 0$ in $R$; under this hypothesis the hint proves the statement.",
+      "verified_by": "checks/sage/s34_eichler.py, checks of Exercises 34.2 and 34.4."
+    },
+    {
+      "id": "C147",
+      "printed_page": "311",
+      "section": "§35",
+      "place": "(35.11), line after the display of $X$, $X'$",
+      "original": "where each $J_i$ and $J'_i$ is a left ideal in $A$.",
+      "corrected": "where each $J_i$ and $J'_i$ is a left $Lambda$-ideal in $A$.",
+      "reason": "The summands are left $Lambda$-ideals in $A$ (full left $Lambda$-lattices in $A$), as in (35.8), whose formulas (35.9), (35.10) the corollary applies, and as used in its proof and in (35.13); a left ideal of the algebra $A$ in the ring-theoretic sense is a $K$-subspace, for which $nu(J_i)$ and the reduced norm of (35.9) are not defined.",
+      "verified_by": "Statement of (35.8) on p. 310; use in the proofs of (35.11), (35.13), (35.14)."
+    },
+    {
+      "id": "C148",
+      "printed_page": "312",
+      "section": "§35",
+      "place": "proof of (35.11), first display",
+      "original": "$nu phi(X') equiv product_(i=1)^r nu(J'_i)$",
+      "corrected": "$nu phi(X') = product_(i=1)^r nu(J'_i)$",
+      "reason": "Misprint: the display restates (35.10) for $X'$, an equality in $Cl_A R$, as for $X$ beside it; no congruence is meant.",
+      "verified_by": "(35.10) on p. 310."
+    },
+    {
+      "id": "C149",
+      "printed_page": "314",
+      "section": "§35",
+      "place": "Exercise 2, end of the hint",
+      "original": "the sign of $a_P$ in $K_P$.\\].",
+      "corrected": "the sign of $a_P$ in $K_P$.\\]",
+      "reason": "Stray period after the closing bracket of the hint.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C150",
+      "printed_page": "318",
+      "section": "§36",
+      "place": "Exercise 36.1, end of the statement",
+      "original": "if and only if $X$ is stably isomorphic to $Y$ [Hint: …",
+      "corrected": "if and only if $X$ is stably isomorphic to $Y$. [Hint: …",
+      "reason": "Missing full stop at the end of the statement before the bracketed hint; every other exercise of the book ends its statement with a full stop before \"[Hint\".",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C151",
+      "printed_page": "318",
+      "section": "§36",
+      "place": "Exercise 36.1, hint, line before the first display",
+      "original": "Hence there exist $L$'s, $M$'s in $P(Lambda)$ such that in $bold(F)$.",
+      "corrected": "Hence there exist $L$'s, $M$'s in $P(Lambda)$ such that in $bold(F)$,",
+      "reason": "The sentence continues into the display $(X) - (Y) = sum {…} + sum {…}$ on p. 319; the full stop before the display is a misprint for a comma.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C152",
+      "printed_page": "319",
+      "section": "§36",
+      "place": "Exercise 36.1, hint, second display (after \"Therefore\")",
+      "original": "$Y dotplus dsum (L_i + L'_i)$",
+      "corrected": "$Y dotplus dsum (L_i dotplus L'_i)$",
+      "reason": "The summand comes from the generator $(L_i dotplus L'_i)$ of $bold(F)_0$ in the preceding display: moving the negative terms across gives $(X) + sum (L_i) + sum (L'_i) + sum (M_j dotplus M'_j) = (Y) + sum (L_i dotplus L'_i) + sum (M_j) + sum (M'_j)$ in the free group $bold(F)$, hence the isomorphism of direct sums. A plain sum of modules has no meaning here; all other sums in the display are dotted.",
+      "verified_by": "Recomputation of the step."
+    },
+    {
+      "id": "C153",
+      "printed_page": "326",
+      "section": "§37",
+      "place": "Remarks after (37.20), (ii), first sentence",
+      "original": "There is a ring isomorphism $Aut_R c(Lambda) tilde.equiv Aut_K c(A)$,",
+      "corrected": "There is a group isomorphism $Aut_R c(Lambda) tilde.equiv Aut_K c(A)$,",
+      "reason": "Automorphism groups: the map $f -> f'$ (extension to $K c(Lambda) = c(A)$) is an isomorphism of groups, not of rings.",
+      "verified_by": "The groups $Aut_R c(Lambda)$, $Aut_K c(A)$ of (37.19) and remark (i)."
+    },
+    {
+      "id": "C154",
+      "printed_page": "330",
+      "section": "§37",
+      "place": "proof of (37.28), Step 2",
+      "original": "Let $R_i$ be the integral closure of $R$ in $K_i$, so each $R_i$ is a complete discrete valuation ring.",
+      "corrected": "Let $R_i$ be the integral closure of $R_P$ in $K_i$, so each $R_i$ is a complete discrete valuation ring.",
+      "reason": "$K_i$ is a finite extension of the completion $K_P$; the complete discrete valuation ring meant is the integral closure of the completion $R_P$ (as in (10.5) and at the start of §21), not of $R$, whose integral closure in $K_i$ is not complete.",
+      "verified_by": "§21 opening (integral closure of the completed ring in $K_i$); (10.5)."
+    },
+    {
+      "id": "C155",
+      "printed_page": "332",
+      "section": "§37",
+      "place": "proof of (37.28), Step 4, after the display $L L' = C$",
+      "original": "Thus $(C) in op(\"Picent\") C$, and we need only verify that $(X) = tau(L)$.",
+      "corrected": "Thus $(L) in op(\"Picent\") C$, and we need only verify that $(X) = tau(L)$.",
+      "reason": "The invertible ideal just constructed is $L$; its class is the one to which $tau$ is applied next.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C156",
+      "printed_page": "334",
+      "section": "§37",
+      "place": "proof of (37.34), second paragraph",
+      "original": "is such that $theta(X) = 1$, then $[X] = [Lambda]$,",
+      "corrected": "is such that $theta(X) = 0$, then $[X] = [Lambda]$,",
+      "reason": "$theta$ takes values in the additive group $Cl Lambda$, whose zero is $[Lambda]$ (35.5); the next words $[X] = [Lambda]$ restate the condition.",
+      "verified_by": "(35.5) on p. 307."
+    },
+    {
+      "id": "C157",
+      "printed_page": "335",
+      "section": "§37",
+      "place": "paragraph before (37.36)",
+      "original": "for the case where $Gamma$ is a full matrix ring ring $M_n (Lambda)$",
+      "corrected": "for the case where $Gamma$ is a full matrix ring $M_n (Lambda)$",
+      "reason": "Repeated word.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C158",
+      "printed_page": "337",
+      "section": "§37",
+      "place": "proof of (37.40), first sentence",
+      "original": "Let $zeta$ be the map occuring in (37.39).",
+      "corrected": "Let $zeta$ be the map occurring in (37.39).",
+      "reason": "Spelling.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C159",
+      "printed_page": "337",
+      "section": "§37",
+      "place": "proof of (37.40), last paragraph",
+      "original": "The remaining assertion in (i) is now clear,",
+      "corrected": "The remaining assertion in (ii) is now clear,",
+      "reason": "Assertion (i) was proved completely in the first paragraph; the remaining assertion is the second sentence of (ii) ($f^n$ inner for $f in Aut_R M_n (R)$), which follows from $op(\"Out\")_R M_n (R) tilde.equiv (Cl R)_n$ just proved.",
+      "verified_by": "Statement of (37.40)."
+    },
+    {
+      "id": "C160",
+      "printed_page": "338, 340",
+      "section": "§37",
+      "place": "hint to Exercise 4; hint to Exercise 14",
+      "original": "$E^e = E times.o_R E^0$; $Lambda^e = Lambda times.o_R Lambda^0$",
+      "corrected": "$E^e = E times.o_R E^circle.stroked.tiny$; $Lambda^e = Lambda times.o_R Lambda^circle.stroked.tiny$",
+      "reason": "Opposite ring: the book writes $D^circle.stroked.tiny$ (§7, enveloping algebra $A^e = A times.o_K A^circle.stroked.tiny$), and the diagram in the same hint to Exercise 4 prints $E^circle.stroked.tiny$; the superscript 0 is a misprint of the circle.",
+      "verified_by": "§7 (opposite ring and enveloping algebra)."
+    },
+    {
+      "id": "C161",
+      "printed_page": "343",
+      "section": "§38",
+      "place": "paragraph \"Recall from §27 ...\", parenthesis after the definition of locally free lattices",
+      "original": "every left $Lambda$-ideal $M$ in $A$, such that $K M - A$, is locally free of rank 1",
+      "corrected": "every left $Lambda$-ideal $M$ in $A$, such that $K M = A$, is locally free of rank 1",
+      "reason": "The equality sign is printed as a single bar (a minus sign); a left $Lambda$-ideal in $A$ is a left $Lambda$-lattice $M$ with $K M = A$, as in §35 and in (38.13).",
+      "verified_by": "The printed text: one bar, same length as a minus sign."
+    },
+    {
+      "id": "C162",
+      "printed_page": "344",
+      "section": "§38",
+      "place": "Remark after (38.1), paragraph \"The nonabelian finite subgroups ...\"",
+      "original": "The nonabelian finite subgroups of $overline(G)$ of $u(bold(H))$ are known explicitly",
+      "corrected": "The nonabelian finite subgroups $overline(G)$ of $u(bold(H))$ are known explicitly",
+      "reason": "The first \"of\" is superfluous: $overline(G)$ names the subgroup of $u(bold(H))$ introduced in the preceding paragraph.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C163",
+      "printed_page": "344",
+      "section": "§38",
+      "place": "(38.5) Remarks (i)",
+      "original": "(i) if $Lambda$ is maximal, the set $cal(S)$ may be taken to be the empty set.",
+      "corrected": "(i) If $Lambda$ is maximal, the set $cal(S)$ may be taken to be the empty set.",
+      "reason": "Capital letter at the beginning of the sentence, as in (ii)-(iv).",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C164",
+      "printed_page": "346",
+      "section": "§38",
+      "place": "(38.10) Theorem, first sentence",
+      "original": "For any $R$-order in a separable $K$-algebra $A$, there is a homomorphism",
+      "corrected": "For any $R$-order $Lambda$ in a separable $K$-algebra $A$, there is a homomorphism",
+      "reason": "The statement uses $Lambda$ ($italic(\"LFP\")(Lambda)$, $Cl Lambda$) without introducing it; compare (38.12), where the order is named.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C165",
+      "printed_page": "346",
+      "section": "§38",
+      "place": "(38.10), display (38.11)",
+      "original": "$[M] = [N] <==> M tilde.equiv N$ (no full stop; the next sentence begins \"Then\")",
+      "corrected": "$[M] = [N] <==> M tilde.equiv N.$",
+      "reason": "Missing full stop at the end of the sentence before \"Then\".",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C166",
+      "printed_page": "347",
+      "section": "§38",
+      "place": "(38.12) Corollary",
+      "original": "For any commutative $R$-order in $Lambda$ in a separable $K$-algebra $A$. we have",
+      "corrected": "For any commutative $R$-order $Lambda$ in a separable $K$-algebra $A$, we have",
+      "reason": "A superfluous \"in\" before $Lambda$, and a full stop printed for the comma before the lower-case \"we\".",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C167",
+      "printed_page": "347",
+      "section": "§38",
+      "place": "Proof of (38.10), display after 'and let $(M) in LFP(Lambda)$. Then'",
+      "original": "$theta(M) = 1 <==> [M] = [Lambda] quad \"in\" Cl Lambda <==> ...$",
+      "corrected": "$theta(M) = 0 <==> [M] = [Lambda] quad \"in\" Cl Lambda <==> ...$",
+      "reason": "$theta$ takes values in the additive group $Cl Lambda$, whose zero is $[Lambda]$ (35.5); the next term $[M] = [Lambda]$ restates the condition. Same slip as $theta(X) = 1$ in the proof of (37.34), corrected there.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C168",
+      "printed_page": "348",
+      "section": "§38",
+      "place": "Proof of (38.13)",
+      "original": "$ alpha_(i j) M_j subset N_i, quad 1 <= i, j <= t. quad (38.14) $ … It follows from (38.14) that",
+      "corrected": "$ alpha_(i j) M_j subset N_i, quad 1 <= i, j <= t. $ … It follows from these inclusions that",
+      "reason": "The number (38.14) is printed twice: on this display and on the next theorem. The display is cited only in the next sentence; it is left unnumbered, so that Theorem (38.14) and Corollary (38.15) keep their printed numbers.",
+      "verified_by": "No other place of the book cites the display."
+    },
+    {
+      "id": "C169",
+      "printed_page": "359",
+      "section": "§39",
+      "place": "proof of (39.14), line 15",
+      "original": "Then $Lambda = rho(overline(Lambda))$",
+      "corrected": "Then $overline(Lambda) = rho(Lambda)$",
+      "reason": "$rho$ is the canonical map $Lambda' -> Lambda' slash J'$ and $overline(Lambda) = Lambda slash J'$ (defined at the top of the page), so $overline(Lambda)$ is the image $rho(Lambda)$; the same page states $Lambda = rho^(-1)(overline(Lambda))$. The printed equation has the two sides interchanged.",
+      "verified_by": "Definitions of ρ and Λ̄ on the same page."
+    },
+    {
+      "id": "C170",
+      "printed_page": "360",
+      "section": "§39",
+      "place": "proof of (39.14), second paragraph",
+      "original": "it is clear from (39.15) that $Lambda slash J$ is a chain ring in the matrix algebra $M_n (overline(Delta))$",
+      "corrected": "it is clear from (39.15) that $Lambda slash J'$ is a chain ring in the matrix algebra $M_n (overline(Delta))$",
+      "reason": "The chain ring in $M_n (overline(Delta))$ is the image $rho(Lambda) = Lambda slash J'$, where $J' = M_n (frak(p))$; $Lambda slash J$ is semisimple and is not a subring of $M_n (overline(Delta))$. The next sentence of the book speaks of $rad Lambda slash J'$ accordingly.",
+      "verified_by": "(39.6), (39.8) and the following sentence."
+    },
+    {
+      "id": "C171",
+      "printed_page": "361",
+      "section": "§39",
+      "place": "proof of (39.18), Step 1, displays of $overline(M)_i$ and $M_i$",
+      "original": "$(0)^(n_(i-1) times 1)$, $(overline(Delta))^(n_i times 1)$ and $(frak(p))^(n_(i-1) times 1)$, $(Delta)^(n_i times 1)$",
+      "corrected": "$(0)^(n_i times 1)$, $(overline(Delta))^(n_(i+1) times 1)$ and $(frak(p))^(n_i times 1)$, $(Delta)^(n_(i+1) times 1)$",
+      "reason": "$overline(M)_i = J^i overline(M)$ is the $i$-th term of the chain (39.21) and has zero blocks in the first $i$ places (proof of (39.7 iii): $V_t$ has $(0)$ in the first $t$ blocks and $(Omega)^(n_(t+1) times 1)$ next); the printed indices describe $overline(M)_(i-1)$ (for $i = 1$ they would give $overline(M)_1 = overline(M)$). The book's own next display, $J M = M_1$ with first block $(frak(p))$, agrees with the corrected indices.",
+      "verified_by": "checks/sage/s39_hereditary_local.py, check of (39.22): $J^i M$ computed for all invariants with $n <= 4$; the printed indices give $J M = M$ for $i = 1$"
+    },
+    {
+      "id": "C172",
+      "printed_page": "362",
+      "section": "§39",
+      "place": "proof of (39.18), Step 2, second paragraph",
+      "original": "Next, we have have seen in the proof of (39.14)",
+      "corrected": "Next, we have seen in the proof of (39.14)",
+      "reason": "Duplicated word.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C173",
+      "printed_page": "365",
+      "section": "§39",
+      "place": "Exercise 39.7 (iii)",
+      "original": "+ There are precisely $r$ distinct orders $Lambda_1$ with $Lambda_1 > Lambda$,",
+      "corrected": "+ If $r > 1$, there are precisely $r$ distinct orders $Lambda_1$ with $Lambda_1 > Lambda$,",
+      "reason": "For $r = 1$ the order $Lambda$ is maximal by (39.23), so there is no order $Lambda_1 > Lambda$; for $r >= 2$ the orders minimally containing $Lambda$ are the $r$ intersections of $r - 1$ of the orders $Gamma_t$. Part (ii) is right for $r = 1$ if the length of a chain counts its orders.",
+      "verified_by": "checks/sage/s39_hereditary_local.py, check of Exercise 39.7."
+    },
+    {
+      "id": "C174",
+      "printed_page": "366",
+      "section": "§39",
+      "place": "Exercise 39.9",
+      "original": "$Lambda$, and that $J_t = rad Gamma_t$. Prove that $Lambda slash J tilde.equiv dsum_(t=0)^(r-1) Gamma_t slash J_t.$",
+      "corrected": "$Lambda$, and that $J_t supset rad Gamma_t$. Prove that $Lambda slash J tilde.equiv dsum_(t=0)^(r-1) Lambda slash J_t.$",
+      "reason": "For $r >= 2$, $J_t != rad Gamma_t = Gamma_t frak(p)$: for $D = K$, $n = 2$, $Lambda = mat((R), (P); (R), (R))$ one has $J_0 = mat((P), (P); (R), (R))$ and $rad Gamma_0 = M_2 (P)$; moreover $J_t$ is then not an ideal of $Gamma_t$, so $Gamma_t slash J_t$ is not a ring. The $J_t$ are the distinct maximal ideals with $J = inter.big J_t$ (39.20), $Lambda slash J_t tilde.equiv M_(n_(t+1)) (overline(Delta))$, so $Lambda slash J tilde.equiv dsum Lambda slash J_t$; and $rad Gamma_t subset J subset J_t$ (proof of (39.14)).",
+      "verified_by": "checks/sage/s39_hereditary_local.py, checks of Exercise 39.9."
+    },
+    {
+      "id": "C175",
+      "printed_page": "372",
+      "section": "§40",
+      "place": "proof of (40.10), display after 'for each prime ideal P of R, we have'",
+      "original": "$product (frak(P)_i)_P = cases(rad Lambda'_P & \"if some\" frak(P)_i supset P\",\", Lambda' & \"otherwise.\")$",
+      "corrected": "$product (frak(P)_i)_P = cases(rad Lambda'_P & \"if some\" frak(P)_i supset P\",\", Lambda'_P & \"otherwise.\")$",
+      "reason": "The left side is a product of ideals of the completion $Lambda'_P$; when no $frak(P)_i$ contains $P$, every factor $(frak(P)_i)_P$ equals $Lambda'_P$, so the product is $Lambda'_P$ (as in the first case, $rad Lambda'_P$). The subscript $P$ is missing in print.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C176",
+      "printed_page": "375",
+      "section": "§40",
+      "place": "proof of (40.16), second paragraph",
+      "original": "$X_P = Lambda'_P x_P, quad x_P in u(A_P),$",
+      "corrected": "$X'_P = Lambda'_P x_P, quad x_P in u(A_P),$",
+      "reason": "The lattice being localized is the given locally free left $Lambda'$-lattice $X'$; $X$ is defined only afterwards, by $X = A inter {inter.big_P Lambda_P x_P}$, and the conclusion $Lambda' X = X'$ needs $X'_P = Lambda'_P x_P$.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C177",
+      "printed_page": "376",
+      "section": "§40",
+      "place": "proof of (40.16), parenthesis after $Lambda'_P times.o T_P = T_P$",
+      "original": "(This is clear when $P in.not cal(S)$, while for $P in cal(S)$ it holds since then $Lambda'_P = Lambda_P$.)",
+      "corrected": "(This is clear when $P in cal(S)$, while for $P in.not cal(S)$ it holds since then $Lambda'_P = Lambda_P$.)",
+      "reason": "$cal(S)$ is the set of $P$ with $Lambda_P != Lambda'_P$ (same page), and $T_P = 0$ for $P in cal(S)$ by the choice of (40.17); so the claim is trivial for $P in cal(S)$ and follows from $Lambda'_P = Lambda_P$ for $P in.not cal(S)$. The two cases are interchanged in print.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C178",
+      "printed_page": "376",
+      "section": "§40",
+      "place": "(40.20)",
+      "original": "$X dotplus Lambda' = Lambda dotplus Lambda' times.o X quad \"as left\" Lambda\"-modules.\"$",
+      "corrected": "$X dotplus Lambda' tilde.equiv Lambda dotplus Lambda' times.o X quad \"as left\" Lambda\"-modules.\"$",
+      "reason": "Schanuel's Lemma gives an isomorphism, not an equality (the two sums are not submodules of a common module); the next displays, derived from (40.20), use $tilde.equiv$.",
+      "verified_by": "The printed text."
+    },
+    {
+      "id": "C179",
+      "printed_page": "383 and References",
+      "section": "§41",
+      "place": "After (41.9)",
+      "original": "\"see also Feit [1, (14.5)]\", with no Feit entry in the References",
+      "corrected": "The References gain the entry Feit [1], Characters of Finite Groups, W. A. Benjamin, New York, 1967.",
+      "reason": "The citation has no target in the printed list; Feit's only book on the subject before 1975 is the 1967 lecture notes. Treated like the Milnor and van der Waerden citations.",
+      "verified_by": "The References of the book: FAITH is followed by FOSSUM."
+    },
+    {
+      "id": "C180",
+      "printed_page": "384",
+      "section": "§41",
+      "place": "note after Exercise 41.3",
+      "original": "(For generalizations of the above, see T. V. Fossum [1, 2], Roggenkamp, Huber-Dyson [1].)",
+      "corrected": "(For generalizations of the above, see T. V. Fossum [1], Roggenkamp, Huber-Dyson [1].)",
+      "reason": "The References list only one work of T. V. Fossum ('On symmetric orders and separable algebras'); there is no T. V. Fossum [2]. The four numbered entries 1–4 belong to R. Fossum (Krull orders, divisor class groups) and do not concern this note.",
+      "verified_by": "The References: one work of T. V. Fossum only."
+    }
+  ]
+}

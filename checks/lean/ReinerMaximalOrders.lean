@@ -1,0 +1,10 @@
+-- Root module: imports every file of checks/lean/ReinerMaximalOrders/.
+import ReinerMaximalOrders.CrossedProduct
+import ReinerMaximalOrders.CyclicAlgebra
+import ReinerMaximalOrders.SchurExponent
+import ReinerMaximalOrders.IdempotentLifting
+import ReinerMaximalOrders.HereditaryComponents
+import ReinerMaximalOrders.PrimeElementMatrix
+import ReinerMaximalOrders.UnramifiedNormBound
+import ReinerMaximalOrders.PicentMatrixOrder
+import ReinerMaximalOrders.HereditaryRadicalGenerator

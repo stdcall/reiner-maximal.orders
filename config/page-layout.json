@@ -1,0 +1,9 @@
+{
+  "margin_mm": 17,
+  "top_margin_mm": 19,
+  "bottom_margin_mm": 18,
+  "bottom_gap_threshold_pt": 72,
+  "short_spill_threshold_pt": 440,
+  "render_scale": 2,
+  "ink_threshold": 220
+}
